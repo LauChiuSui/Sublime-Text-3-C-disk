@@ -1,0 +1,1464 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3176,
+	"last_window_id": 69,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 568.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"If",
+						"If{condition}{then-block}\talgorithm2e"
+					],
+					[
+						"elseif",
+						"ElseIf(elseif-comment){elseif-block}\talgorithm2e"
+					],
+					[
+						"temp",
+						"temp_right1"
+					],
+					[
+						"cas",
+						"Case{case}{case-block}\talgorithm2e"
+					],
+					[
+						"exi",
+						"\\exists                                           \tlatex-mathsymbols"
+					],
+					[
+						"month",
+						"month06"
+					],
+					[
+						"caption",
+						"caption{title}\tlatex-document"
+					],
+					[
+						"chapter",
+						"chapter{title}\tlatex-document"
+					],
+					[
+						"cap",
+						"caption{title}\tlatex-document"
+					],
+					[
+						"sect",
+						"section{title}\tlatex-document"
+					],
+					[
+						"subs",
+						"subsection{title}\tlatex-document"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Traditional"
+					]
+				],
+				[
+					[
+						[
+							"Packages/MarkdownPreview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/MarkdownPreview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"liverelaod",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 171.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/MyColor/yellowStone.tmTheme",
+				"/D/Softwares/Sublime Text 3/Packages/Color Scheme - Legacy.sublime-package",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/MarkdownLivePreview/.sublime/MarkdownLivePreview.sublime-settings",
+				"/D/Documents/I am now sleeping.tex",
+				"/E/Academic/Researches/Note/Note20190102.tex",
+				"/E/Academic/Researches/Keys/keys.tex",
+				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/E16_DQL.tex",
+				"/E/Academic/Notes/Reading/Reading.tex",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/E/Academic/Researches/Note/Note20190101.tex",
+				"/E/Academic/Researches/Files/OldNotes/Note20181128/Note20181128.tex",
+				"/D/Documents/Downloads/PSPACE-complete - Wikipedia.tex",
+				"/E/Academic/Researches/Note/Note.tex",
+				"/E/Academic/Researches/Note20181226/Note.tex",
+				"/E/Academic/Researches/Note20181212/Note20181212.tex",
+				"/E/Academic/Researches/Note20181226/Note.log",
+				"/E/Documents/AIcourse201801/Document/Help.tex",
+				"/D/Documents/Downloads/Introduction to Reinforcement Learning _ Algorithmia Blog.tex",
+				"/E/Documents/AIcourse201801/Exercise/E15_20181214_DL/E15_DL.tex",
+				"/D/Documents/Downloads/GitHub - yenchenlin_DeepLearningFlappyBird_ Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3851/background.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3849/deepqnet.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3850/method.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.034.4395/HZ$D.034.4398/DeepRL.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4969/deepqnet.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.175.3909/HZ$D.175.3910/DeepLearningFlappyBird-master/deep_q_network.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.600.1796/HZ$D.600.1797/DeepLearningFlappyBird-master/deep_q_network.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.1753/HZ$D.917.1754/DeepLearningFlappyBird-master/game/flappy_bird_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4968/intro.tex",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty",
+				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/DeepRL.bbl",
+				"/D/Documents/Desktop/NeuralQLearner.lua",
+				"/D/Documents/Desktop/ttt.vbs",
+				"/D/Documents/Desktop/test.vbs",
+				"/D/Documents/Desktop/test1.vbs",
+				"/D/Documents/Desktop/test3.vbs",
+				"/D/Documents/Desktop/test4.vbs",
+				"/D/Documents/Desktop/deleteRow.vbs",
+				"/D/Documents/Desktop/zero.vbs",
+				"/D/Documents/Desktop/code_updated.dta",
+				"/E/Documents/AIcourse201801/Exercise/E14_VariableElimination.py",
+				"/G/E15_20181214_DL/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cs231n/data_utils.py",
+				"/D/Documents/Desktop/数据/test1.py",
+				"/D/Documents/Desktop/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cnn-master/test_lenet_5.py",
+				"/D/Documents/Desktop/NumPyCNN-master/example.py",
+				"/D/Documents/Desktop/cs231n/classifiers/__init__.py",
+				"/D/Documents/Desktop/test.py",
+				"/D/Documents/Desktop/cnn-master/cnn_operations.py",
+				"/D/Documents/Desktop/cnn-master/mnist_operations.py",
+				"/D/Documents/Desktop/cs231n/fast_layers.py",
+				"/D/Documents/Desktop/cs231n/setup.py",
+				"/D/Documents/Desktop/cs231n/im2col.py",
+				"/D/Documents/Desktop/cs231n/layers.py",
+				"/D/Documents/Desktop/数据/test2.py",
+				"/D/Documents/Desktop/test1.vba",
+				"/D/Documents/Desktop/cs231n/datasets/get_datasets.sh",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2240/assignment2/README.md",
+				"/D/Documents/Desktop/README.md",
+				"/D/Documents/Desktop/assignment2/README.md",
+				"/D/Documents/Desktop/cs231n/solver.py",
+				"/E/Academic/Researches/Note20181128/Note20181128.tex",
+				"/D/Documents/Desktop/assignment2/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cs231n/classifiers/fc_net.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2250/assignment2/cs231n/data_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2249/assignment2/cs231n/solver.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2248/assignment2/cs231n/setup.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
+				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.464.2454/HZ$D.464.2456/BP.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/E14_RL.tex",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/test.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/Pic",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/bot.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/bestfirst.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bestfirst.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bl.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/blocksworld.pl",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
+				"/D/Documents/Desktop/learn.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.560.459/HZ$D.560.460/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.272.3452/HZ$D.272.3453/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/neural-network.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337026_16337027/blocksworld/blocksworld.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337189_16337202/README",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337189_16337202/data_file/blocksworld input.in",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337136/blocksworld.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337136/readme.txt",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337072_16337064/readme.md",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.data",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/E13_BP.tex",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/Hints4Novices/ggm_em.py",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.test",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.names",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/E12_EM.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.979.3436/HZ$D.979.3437/EM.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.807/a01.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.806/test_student.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.804/run.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.803/NetworkDiscovery.py",
+				"/E/Documents/AIcourse201601/Documents/code.py"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"simu",
+					"\n\\"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 166.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 152.0
+			},
+			"output.markdown":
+			{
+				"height": 109.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 92.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 931.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"If",
+						"If{condition}{then-block}\talgorithm2e"
+					],
+					[
+						"elseif",
+						"ElseIf(elseif-comment){elseif-block}\talgorithm2e"
+					],
+					[
+						"temp",
+						"temp_right1"
+					],
+					[
+						"cas",
+						"Case{case}{case-block}\talgorithm2e"
+					],
+					[
+						"exi",
+						"\\exists                                           \tlatex-mathsymbols"
+					],
+					[
+						"month",
+						"month06"
+					],
+					[
+						"caption",
+						"caption{title}\tlatex-document"
+					],
+					[
+						"chapter",
+						"chapter{title}\tlatex-document"
+					],
+					[
+						"cap",
+						"caption{title}\tlatex-document"
+					],
+					[
+						"sect",
+						"section{title}\tlatex-document"
+					],
+					[
+						"subs",
+						"subsection{title}\tlatex-document"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/Academic/Researches/Notes/Keys.tex",
+					"settings":
+					{
+						"buffer_size": 27760,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Academic/Researches/Notes/Note.tex",
+					"settings":
+					{
+						"buffer_size": 37501,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"PdfLaTeX"
+					]
+				],
+				[
+					[
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXing/LaTeX.sublime-build",
+							"Clean up Files"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"Traditional"
+					]
+				],
+				[
+					[
+						[
+							"Packages/MarkdownPreview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/MarkdownPreview/Markdown.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"liverelaod",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 476.0
+			},
+			"console":
+			{
+				"height": 171.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/MyColor/yellowStone.tmTheme",
+				"/E/Academic/Researches/Notes/Note20190102.tex",
+				"/E/Academic/Researches/Note/Note20190102.tex",
+				"/D/Softwares/Sublime Text 3/Packages/Color Scheme - Legacy.sublime-package",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownLivePreview.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/MarkdownLivePreview/.sublime/MarkdownLivePreview.sublime-settings",
+				"/D/Documents/I am now sleeping.tex",
+				"/E/Academic/Researches/Keys/keys.tex",
+				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/E16_DQL.tex",
+				"/E/Academic/Notes/Reading/Reading.tex",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/E/Academic/Researches/Note/Note20190101.tex",
+				"/E/Academic/Researches/Files/OldNotes/Note20181128/Note20181128.tex",
+				"/D/Documents/Downloads/PSPACE-complete - Wikipedia.tex",
+				"/E/Academic/Researches/Note/Note.tex",
+				"/E/Academic/Researches/Note20181226/Note.tex",
+				"/E/Academic/Researches/Note20181212/Note20181212.tex",
+				"/E/Academic/Researches/Note20181226/Note.log",
+				"/E/Documents/AIcourse201801/Document/Help.tex",
+				"/D/Documents/Downloads/Introduction to Reinforcement Learning _ Algorithmia Blog.tex",
+				"/E/Documents/AIcourse201801/Exercise/E15_20181214_DL/E15_DL.tex",
+				"/D/Documents/Downloads/GitHub - yenchenlin_DeepLearningFlappyBird_ Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3851/background.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3849/deepqnet.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3850/method.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.034.4395/HZ$D.034.4398/DeepRL.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4969/deepqnet.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.175.3909/HZ$D.175.3910/DeepLearningFlappyBird-master/deep_q_network.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.600.1796/HZ$D.600.1797/DeepLearningFlappyBird-master/deep_q_network.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.1753/HZ$D.917.1754/DeepLearningFlappyBird-master/game/flappy_bird_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4968/intro.tex",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty",
+				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/DeepRL.bbl",
+				"/D/Documents/Desktop/NeuralQLearner.lua",
+				"/D/Documents/Desktop/ttt.vbs",
+				"/D/Documents/Desktop/test.vbs",
+				"/D/Documents/Desktop/test1.vbs",
+				"/D/Documents/Desktop/test3.vbs",
+				"/D/Documents/Desktop/test4.vbs",
+				"/D/Documents/Desktop/deleteRow.vbs",
+				"/D/Documents/Desktop/zero.vbs",
+				"/D/Documents/Desktop/code_updated.dta",
+				"/E/Documents/AIcourse201801/Exercise/E14_VariableElimination.py",
+				"/G/E15_20181214_DL/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cs231n/data_utils.py",
+				"/D/Documents/Desktop/数据/test1.py",
+				"/D/Documents/Desktop/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cnn-master/test_lenet_5.py",
+				"/D/Documents/Desktop/NumPyCNN-master/example.py",
+				"/D/Documents/Desktop/cs231n/classifiers/__init__.py",
+				"/D/Documents/Desktop/test.py",
+				"/D/Documents/Desktop/cnn-master/cnn_operations.py",
+				"/D/Documents/Desktop/cnn-master/mnist_operations.py",
+				"/D/Documents/Desktop/cs231n/fast_layers.py",
+				"/D/Documents/Desktop/cs231n/setup.py",
+				"/D/Documents/Desktop/cs231n/im2col.py",
+				"/D/Documents/Desktop/cs231n/layers.py",
+				"/D/Documents/Desktop/数据/test2.py",
+				"/D/Documents/Desktop/test1.vba",
+				"/D/Documents/Desktop/cs231n/datasets/get_datasets.sh",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2240/assignment2/README.md",
+				"/D/Documents/Desktop/README.md",
+				"/D/Documents/Desktop/assignment2/README.md",
+				"/D/Documents/Desktop/cs231n/solver.py",
+				"/E/Academic/Researches/Note20181128/Note20181128.tex",
+				"/D/Documents/Desktop/assignment2/cs231n/classifiers/cnn.py",
+				"/D/Documents/Desktop/cs231n/classifiers/fc_net.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2250/assignment2/cs231n/data_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2249/assignment2/cs231n/solver.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2248/assignment2/cs231n/setup.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
+				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.464.2454/HZ$D.464.2456/BP.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/E14_RL.tex",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/test.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/Pic",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/bot.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/bestfirst.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bestfirst.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bl.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/blocksworld.pl",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
+				"/D/Documents/Desktop/learn.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.560.459/HZ$D.560.460/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.272.3452/HZ$D.272.3453/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/neural-network.py",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337026_16337027/blocksworld/blocksworld.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337189_16337202/README",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337189_16337202/data_file/blocksworld input.in",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337136/blocksworld.pl",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337136/readme.txt",
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337072_16337064/readme.md",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.data",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/E13_BP.tex",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/Hints4Novices/ggm_em.py",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.test",
+				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/horse-colic.names",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/E12_EM.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.979.3436/HZ$D.979.3437/EM.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.807/a01.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.806/test_student.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.804/run.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.271.802/HZ$D.271.803/NetworkDiscovery.py"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"emph",
+					"simu",
+					"\n\\"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/Academic/Researches/Notes/Keys.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27760,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9786,
+										9786
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9785,
+												9786
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												9772,
+												9773
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9785,
+												9786
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												9772,
+												9773
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"markdonw_live_preview_last_run": 1547040133.74,
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3323.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Academic/Researches/Notes/Note.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37501,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8251,
+										8251
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												8254,
+												8255
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8246,
+												8247
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												8254,
+												8255
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8246,
+												8247
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3800.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 166.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 152.0
+			},
+			"output.markdown":
+			{
+				"height": 109.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,653,26,26,973",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 92.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 65,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

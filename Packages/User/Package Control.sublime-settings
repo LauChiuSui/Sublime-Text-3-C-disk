@@ -1,0 +1,50 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://packagecontrol.io/packages/PackageResourceViewer"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"Dictionaries",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Extract Sublime Package",
+		"ImageMagick",
+		"jQuery",
+		"JsFormat",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"LaTeXTab",
+		"LaTeXTools",
+		"LiveReload",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Package Control",
+		"Package Syncing",
+		"PackageResourceViewer",
+		"SublimeREPL",
+		"Theme - Cobalt2",
+		"VBScript"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Dictionaries",
+		"https://github.com/skuroda/PackageResourceViewer",
+		"https://github.com/skuroda/PackageResourceViewer.git"
+	]
+}
