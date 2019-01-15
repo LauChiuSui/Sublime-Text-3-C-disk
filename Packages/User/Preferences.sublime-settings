@@ -27,7 +27,9 @@
 		"lm",
 		"Kripke",
 		"texify",
-		"indistinguishability"
+		"indistinguishability",
+		"subformulas",
+		"subformula"
 	],
 	"auto_complete_selector": "source.text",
 	"auto_complete_triggers":

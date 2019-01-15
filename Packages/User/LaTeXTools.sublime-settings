@@ -109,7 +109,7 @@
 	// The format can either be RGB based "#RRGGBB" (e.g. "#FFFF00")
 	// or a color name (e.g. "yellow")
 	// If it is the empty string "" it will be guessed based in the color scheme.
-	"preview_math_color": "#FFA500",
+	"preview_math_color": "#FF4500",
 
 	// The background color of the preview math phantoms.
 	// In contrast to the foreground color you may also edit your colorscheme to change this.
