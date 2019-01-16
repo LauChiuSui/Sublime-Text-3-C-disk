@@ -3,7 +3,7 @@
 	[
 	],
 	"last_version": 3176,
-	"last_window_id": 71,
+	"last_window_id": 74,
 	"log_indexing": false,
 	"settings":
 	{
@@ -259,6 +259,11 @@
 			},
 			"file_history":
 			[
+				"/F/Books/awesome-fantasy/contributing.md",
+				"/F/Books/awesome-fantasy/README.md",
+				"/D/Projects/test.md",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
 				"/E/Zotero/locate/engines.json",
 				"/D/Softwares/Anaconda3/etc/jupyter/jupyter_notebook_config.json",
 				"/D/Documents/Downloads/review guidelines.tex",
@@ -349,14 +354,12 @@
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
 				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
 				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
@@ -383,10 +386,7 @@
 				"/D/Documents/Desktop/learn.py",
 				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
 				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.560.459/HZ$D.560.460/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.272.3452/HZ$D.272.3453/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/neural-network.py",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337026_16337027/blocksworld/blocksworld.pl"
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.560.459/HZ$D.560.460/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json"
 			],
 			"find":
 			{
@@ -566,13 +566,11 @@
 					}
 				},
 				{
-					"contents": "\\documentclass[a4paper, 11pt]{article}\n\\usepackage{amsmath}\n\\usepackage{amssymb}\n\\usepackage{color}\n\\usepackage{MnSymbol}\n\\usepackage{graphicx}\n\\usepackage{amsthm}\n\\usepackage{epstopdf}\n\\usepackage{geometry}\n\\usepackage{hyperref}\n\\usepackage{enumitem}\n\\usepackage{multirow}\n\\usepackage{diagbox}\n\\usepackage{cancel}\n\\usepackage{algorithm2e}\n\\usepackage{subfigure}\n%\\usepackage{showframe}% show the frame line in case \"float too large\" in tables or algorithms\n\\usepackage{setspace}% line space\n\\setenumerate[1]{itemsep=0pt,partopsep=0pt,parsep=\\parskip,topsep=5pt}\n\\setitemize[1]{itemsep=0pt,partopsep=0pt,parsep=\\parskip,topsep=5pt}\n\\setdescription{itemsep=0pt,partopsep=0pt,parsep=\\parskip,topsep=5pt}\n\n\\geometry{scale=0.9}\n%\\linespread{1.5}\n\\newtheorem{thm}{Theorem}\n\n\\newtheorem{df}{Definition}\n\\newtheorem{prop}{Proposition}\n\\newtheorem{cor}{Corollary}\n\\newtheorem{lm}{Lemma}\n\\newtheorem{conj}{Conjecture}\n\n\\title{\\LARGE\\textsc{LDL+ATL+JCAN}}\n\\author{Zhaoshuai Liu}\n\n\n\\begin{document}\n\\maketitle\n%\\tableofcontents\n%\\newpage\n\n\\section{Syntax}\n\n\\begin{df}[Syntax]\nADL$_{JCAN}$ formulas are built as follows:\n$$\\varphi::=p\\ |\\ \\neg\\varphi\\ |\\ \\varphi_1\\land\\varphi_2\\ |\\ \\llangle A\\rrangle_{k}\\langle\\rho\\rangle\\varphi\\ |\\ \\lsem A\\rsem_{k}\\langle\\rho\\rangle\\varphi$$\n$$\\rho::=\\phi\\ |\\ \\varphi?\\ |\\ \\rho_1+\\rho_2\\ |\\ \\rho_1;\\rho_2\\ |\\ \\rho^*$$\nwhere $k\\in \\mathbb N\\cup\\{\\infty\\}$, $p\\in AP$, $A\\in Agt$, $\\phi$ is a propositional formula over the atomic propositions in $AP$, and $\\rho$ denotes path expressions, which are regular expressions over $\\phi$ with the addition of the test construct $\\varphi?$.\n\\end{df}\n\n\\section{Semantics}\nGiven a CGS $\\mathcal G$, for all formulas $\\varphi$, states $s\\in St$, and $s$-total assignments $\\chi\\in Asg(s)$, the modeling relation $\\mathcal G,s,\\chi\\vDash\\varphi$ is inductively defined as follows:\n\n\\begin{itemize}\n  \\item $\\mathcal G, s,\\chi\\vDash p$ if $p\\in L(s)$, with $p\\in AP$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\neg\\varphi$ if not $\\mathcal G, s,\\chi\\vDash\\varphi$, that is, $\\mathcal G,s,\\chi\\nvDash\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\varphi_1\\land\\varphi_2$ if $\\mathcal G,s,\\chi\\vDash\\varphi_1$ and $\\mathcal G,s,\\chi\\vDash\\varphi_2$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\llangle A\\rrangle_0\\langle\\rho\\rangle\\varphi$ if there exists a strategy $\\sigma_A\\in Str_A^{Pref^0}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G, s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\llangle A\\rrangle_{k+1}\\langle\\rho\\rangle\\varphi$ if there exists a strategy $\\sigma_A\\in Str_A^{Pref^{k+1}}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G,s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\llangle A\\rrangle_{\\infty}\\langle\\rho\\rangle\\varphi$ if there exists a strategy $\\sigma_A\\in\\bigcap_{k=0}^\\infty Str_A^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G, s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\lsem A\\rsem_0\\langle\\rho\\rangle\\varphi$ if for all strategies $\\sigma_A\\in Str_A^{Pref^0}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G, s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\lsem A\\rsem_{k+1}\\langle\\rho\\rangle\\varphi$ if for all strategies $\\sigma_A\\in Str_A^{Pref^{k+1}}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G, s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\lsem A\\rsem_{\\infty}\\langle\\rho\\rangle\\varphi$ if for all strategies $\\sigma_A\\in\\bigcap_{k=0}^\\infty Str_A^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)$, for all strategies $\\sigma_{-A}\\in Str_{-A}$, we have $\\mathcal G, s,\\chi[A\\mapsto\\sigma_A,-A\\mapsto Str_{-A}]\\vDash\\langle\\rho\\rangle\\varphi$.\n\n  \\item $\\mathcal G, s,\\chi\\vDash\\langle\\rho\\rangle\\varphi$ if for all $\\lambda\\in play(\\chi,s)$, if $\\lambda[0,i]\\in\\mathcal R(\\rho)$, we have $\\mathcal G,\\lambda[i],\\chi\\vDash\\varphi$.\n\\end{itemize}\n\n$Str_A^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)=\\prod_{i\\in A}Str_i^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)$ denotes the preferred strategy set of agents in set $A$ achieving the formula $\\langle\\rho\\rangle\\varphi$ iterated eliminations performed $k$ times, and the set will be updated by eliminating some dominated strategies. Based on the preference relation $\\geq_{\\psi}$, the set $Str_i^{Pref^{k}}(\\psi)$ is defined inductively as follows:\n\n\\begin{enumerate}\n  \\item If $i\\in A$, we have\n    \\begin{itemize}\n      \\item $Str_i^{Pref^{0}}(\\langle\\rho\\rangle\\varphi)=Str_i$.\n\n      \\item $Str_i^{Pref^{k+1}}(\\langle\\rho\\rangle\\varphi)=\\{\\sigma_i\\in Str_i^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)\\ |\\ \\neg\\exists\\sigma_i'\\in Str_i^{Pref^{k}}(\\langle\\rho\\rangle\\varphi), s.t.\\ \\sigma_i'\\geq_{\\langle\\rho\\rangle\\varphi}\\sigma_i\\land\\sigma_i\\gneq_{\\langle\\rho\\rangle\\varphi}\\sigma_i'\\}$.\n    \\end{itemize}\n\n  \\item If $i\\notin A$, we have $Str_i^{Pref^{k}}(\\langle\\rho\\rangle\\varphi)=Str_i$.\n\\end{enumerate}\n\nThe relation $\\lambda[i,j]\\in\\mathcal R(\\rho)$ is defined inductively as follows:\n\n\\begin{itemize}\n  \\item $\\lambda[i,j]\\in\\mathcal R(\\phi)$ if $j=i+1$, and $\\mathcal G,\\lambda[i],\\chi\\vDash\\phi$.\n\n  \\item $\\lambda[i,j]\\in\\mathcal R(\\varphi?)$ if $j=i$ and $\\mathcal G,\\lambda[i],\\chi\\vDash\\varphi$.\n\n  \\item $\\lambda[i,j]\\in\\mathcal R(\\rho_1+\\rho_2)$ if $\\lambda[i,j]\\in\\mathcal R(\\rho_1)$ or $\\lambda[i,j]\\in\\mathcal R(\\rho_2)$.\n\n  \\item $\\lambda[i,j]\\in\\mathcal R(\\rho_1;\\rho_2)$ if there exists $k$, with $i\\leq k\\leq j$, such that $\\lambda[i,k]\\in\\mathcal R(\\rho_1)$ and $\\lambda[k,j]\\in\\mathcal R(\\rho_2)$.\n\n  \\item $\\lambda[i,j]\\in\\mathcal R(\\rho^*)$ if $j=i$ or there exists $k$, with $i\\leq k\\leq j$, such that $\\lambda[i,k]\\in\\mathcal R(\\rho)$ and $\\lambda[k,j]\\in\\mathcal R(\\rho^*)$. \n\\end{itemize}\n\n\n%----------------------------------------------------------------------------------------------------------------------\n\\section{Model Checking Algorithm}\n\n\\begin{algorithm}[ht]\n\\setstretch{0.99} % change the ratio\n\\SetAlgoLined\n\\KwData{A CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ and an ADL$_{JCAN}$ formula $\\varphi_0$}\n\\KwResult{$[\\varphi_0]_{\\mathcal G}$, the set of states in $St$ that satisfy $\\varphi_0$}\n%initialization\\;\n\\ForEach{$\\varphi'$ in  $Sub(\\varphi_0)$}{\n  \n\\Case{$\\varphi'= p$}\n  {\n    return $\\{s: s\\in St \\ \\text{and} \\ p\\in L(s)\\}$  \n  }\n\n\\Case{$\\varphi' = \\neg \\varphi $}\n  {\n    return $St\\backslash [\\varphi]_{\\mathcal G}$\n  }\n\n\\Case{$\\varphi' = \\varphi_1\\wedge \\varphi_2$}\n  {\n    return $[\\varphi_1]_{\\mathcal G}\\bigcap [\\varphi_2]_{\\mathcal G}$\n  }\n\n\\Case{$\\varphi'=\\lsem A\\rsem_k\\langle\\rho\\rangle\\theta$}\n  {\n    $[\\varphi']_{\\mathcal G}=\\emptyset$\\;\n    lable all states in $[\\theta]_{\\mathcal G}$ by a fresh propositional symbols, say $p_{\\theta}$, replace $\\theta$ by $p_{\\theta}$\n    \n    \\ForEach{$\\varphi_1\\in Sub_m(\\varphi_0)$ in $\\rho$}\n      {lable all states in $[\\varphi_1]_{\\mathcal G}$ by a fresh propositional symbols, say $p_{\\varphi_1}$, \n        \n      replace $\\varphi_1$ in $\\rho$ by $p_{\\varphi_1}$, get new $\\rho'$, which does not contain any coalition operators \n      }\n     \n    after replacement, get $\\langle \\rho'\\rangle p_{\\theta}$, a pure LDL formula, and a new CGS $\\mathcal G'$\n     \n    %\\ForEach{$a$ in $A$}{find the set $Str_a$ such that for all $\\sigma_a$ in $A$ we have $\\mathcal G,s,\\chi[a\\to\\sigma_a,-a\\to\\sigma_{-a}]\\vDash\\langle\\rho\\rangle\\theta$}\n    \n    \\ForEach{$s\\in St$}\n      {\\While{$k\\neq 0$}\n        {\\ForEach{$a\\in A$}\n        {    \n          \\ForEach{$\\sigma_i,\\sigma_j\\in Str_a$ and $\\sigma_{-i},\\sigma_{-j}\\in Str_{-a}$}\n            {\\If{$KripkeS(\\mathcal G',\\{\\sigma_i,\\sigma_{-i}\\}),s\\vDash_{LDL}\\langle \\rho'\\rangle p_{\\theta}$ \\text{and} $KripkeS(\\mathcal G',\\{\\sigma_j,\\sigma_{-j}\\}),s\\vDash_{LDL}\\langle \\rho'\\rangle p_{\\theta}$}\n              {$Str_{-i}=Str_{-i}\\bigcup\\{\\sigma_{-i}\\}$\\;\n              $Str_{-j}=Str_{-j}\\bigcup\\{\\sigma_{-j}\\}$}\n            } \n          \\ForEach{$\\sigma_i,\\sigma_j\\in Str_a$}\n            {\\If{$Str_{-i}\\subset Str_{-j}$}{$Str_a=Str_a\\backslash\\{\\sigma_i\\}$}}   \n        \n        }\n        \\If{$Str_A=\\prod_{a\\in A}Str_a$ does not change}{break\\;}\n        \\uElseIf{$k\\neq\\infty$}{$k=k-1$}\n        }      \n    \\If{for all $\\sigma_A\\in\\prod_{a\\in A}Str_a$,  $KripkeS(\\mathcal G',\\sigma_A),s\\vDash_{LDL}\\langle\\rho'\\rangle p_{\\theta}$}{$[\\varphi']_{\\mathcal G}=[\\varphi']_{\\mathcal G}\\bigcup \\{s\\}$}\n      }\n    return $[\\varphi']_{\\mathcal G}$\n  }\n  \n  \\Case{$\\varphi'=\\langle\\!\\langle A\\rangle\\!\\rangle_k\\langle\\rho\\rangle\\theta$}\n  {this case is similar with the case $\\lsem A\\rsem_k\\langle\\rho\\rangle\\theta$ except the last step\n    \n   \\If{there exists $\\sigma_A\\in\\prod_{a\\in A}Str_a$, satisfying $KripkeS(\\mathcal G',\\sigma_A),s\\vDash_{LDL}\\langle\\rho'\\rangle p_{\\theta}$}{$[\\varphi']_{\\mathcal G}=[\\varphi']_{\\mathcal G}\\bigcup \\{s\\}$}\n   \n   return $[\\varphi']_{\\mathcal G}$\n}\n\n}\n\\caption{ADL$_{JCAN}$ Model Checking}\n\\label{ADL$_{JCAN}$ Model Checking}\n\\end{algorithm}\n\n\n$\\varphi'\\in Sub_m(\\varphi)$ means that $\\varphi'$ is a subformula, has the form $\\varphi'=(B)(\\rho')\\varphi''$, and is not a rigid subformula of any subformula of $\\varphi$ like this form except $\\varphi$ itself.\n\n$KripkeS(\\mathcal G,\\sigma_A)$ is a Kripke structure which is trimmed according to collective strategy $\\sigma_A$, that is to say, all transitions which cannot occur by following $\\sigma_A$ are removed.\n\n$\\vDash_{LDL}$ is the semantics of LDL under Kripke models.\n\nPartial correctness of the algorithm can be proved by induction on the structure of\nthe input formula $\\varphi$. \n\nThis algorithm \\ref{ADL$_{JCAN}$ Model Checking} will terminate obviously because of the finiteness of state space, action space, and strategy space.\n\nGiven a CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ and an ADL$_{JCAN}$ formula $\\varphi_0$, in order to consider the computational complexity of this algorithm, for simplicity, we assume there are $n$ states in $St$, $h$ agents in $Agt$, $m$ actions in $Act$, and the size $\\mid \\varphi_0\\mid$ of the formula $\\varphi_0$ is $l$, i.e., the symbol appearing in $\\varphi_0$.\n\n{\\color{red}{What is the definition of the Model Checking problem of ADL$_{JCAN}$ ?}}\n\n\\begin{thm}\n  The computational complexity of the model checking problem of ADL$_{JCAN}$ is in EXPTIME.\n\\end{thm}\n\nConsider a game structure S with m transitions and an ADL$_{JCAN}$ formula $\\varphi_0$ of length $l$. We label each state $s$ of $St$ by all state subformulas of $\\varphi_0$ that are satisfied in $s$. We do this in a bottom-up fashion, starting from the innermost state subformulas of $\\varphi_0$. For subformulas generated by the rules, such as $p$, $\\neg\\varphi$, and $\\varphi_1\\wedge\\varphi_2$, the labeling procedure is straightforward. For subformulas $\\varphi'=\\lsem A\\rsem_k\\langle\\rho\\rangle\\theta$, $\\varphi'=\\langle\\!\\langle A\\rangle\\!\\rangle_k\\langle\\rho\\rangle\\theta$, we call the algorithm of the model checking of LDL. Here we only consider the case $\\varphi'=\\lsem A\\rsem_k\\langle\\rho\\rangle\\theta$, the other is similar.\n\nLet $\\varphi'=\\lsem A\\rsem_k\\langle\\rho\\rangle\\theta$.\n\nIn the algorithm 1, we can see that sizes of $\\mathcal G'$ and $\\rho'$ does not increase. For each state $s$, number $k$, and agent $a$ in $A$, in the strategy matrix structure step,  we need time $2^n2^{n(h-1)}f(n,l)$; in the elimination step, we need time $C_{2^n}^2 2^{n(h-1)}$; in the verification step, we need time $2^{n\\mid A\\mid} f(n,l)$. So for each state, we need time \n$2^n \\mid A\\mid (2^{nh}f(n,l)+C_{2^n}^2 2^{n(h-1)})+2^{n\\mid A\\mid} f(n,l)$. Here $f(n,l)$ is the time which need to compute the LDL model checking when the model size is $n$ and the formula size is $l$.\n\nLastly, for this case, the time needs $$n[2^n\\mid A\\mid (2^{nh}f(n,l)+C_{2^n}^2 2^{n(h-1)})+2^{n\\mid A\\mid} f(n,l)].$$\n\nTherefore, the whole complexity of this algorithm is $$O(l)n[2^n\\mid A\\mid (2^{nh}f(n,l)+C_{2^n}^2 2^{n(h-1)})+2^{n\\mid A\\mid} f(n,l)].$$\n\nAccording to the paper about PLDL, we have $f(n,l)=n2^l$. Then we can have the computational complexity is exponential time about the number of states and size of the formula.\n\n\n\\vspace{2cm}\n\nProblems:\n{\\color{red}{\n\\begin{enumerate}\n  \\item valid formulas: such as $[[A]]_{\\infty}\\diamond \\phi\\equiv \\diamond [[A]]_{\\infty} X \\phi$.\n\n  \\item the lower bound\n\n  \\item iterated elimination of dominated strategies only need one time: qualitative?\n\n  \\item The relationship among LTL, LDL, CTL, CTL*，ATL, ATL*, and ADLJCAN.\n \n  \\item strategies with perfect recall and memoryless strategies.\n\\end{enumerate}\n}}\n\n\n%-------------------------------------------------------------------------------------\n\\section{Properties}\n\n\\subsection{ATL and CTL, ATL* and CTL*}\n\nIn ATL and ATL*, the parameterized path quantifier $\\llangle A\\rrangle$ is a generalization of the path quantifiers of branching-time time logics: the existential path quantifier $\\exists$ corresponds to $\\llangle\\Sigma\\rrangle$, and the universal path quantifier $\\forall$ corresponds to $\\llangle\\emptyset\\rrangle$.\n\nKripke structures can be viewed as CGSs with a single player $sys$, which represents the system. Then, the two possible parameterized path quantifiers $\\llangle\\{sys\\}\\rrangle$ and $\\llangle\\emptyset\\rrangle$ match exactly the path quantifiers $\\exists$ and $\\forall$ required for specifying closed systems.\n\nIn ATL*, the computations set is specified by a formula of LTL; in the more restricted logic ATL, the computations set is specified by a single temporal operator applied to a state predicate. By allowing nesting of alternating properties, we obtain ATL as the alternating-time generalization of CTL, and ATL* as the alternating-time generation of CTL*. \n%--------------------------------------------------------------------------------------\n\\clearpage\n\\newpage\n\\section{Examples}\n\n\\subsection{The Google Car}\n\n\\begin{figure}[htbp]\n\\centering\n\\includegraphics[width=0.9\\textwidth]{Pic/google_car.pdf}\n\\caption{The Google car example}\n\\label{fig:google_car}\n\\end{figure}\n\nAs we can see from the above figure \\ref{fig:google_car}, two autonomous cars, moving in the same direction from different lanes, repeatedly need to take the appropriate actions in case of a crash due to the obstacles on the road. There are three actions available to the two cars in real life: waiting, keeping moving and changing lanes. We thus define the Google car example as a CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ with the following components:\n\n\\begin{itemize}\n\t\\item $Agt=\\{1,2\\}$, where 1 and 2 denote car 1 and car 2, respectively.\n\n\t\\item For each $i_1,i_2\\in\\{1,2\\}$, $j_1,j_2\\in\\mathbb N$, $obs1,obs2\\in\\mathbb N$, $St=\\{(i_1,j_1,i_2,j_2,obs1,obs2)\\}$, where $(i_1,j_1)$, $(i_2,j_2)$, $obs1$ and $obs2$ are the positions of car 1, car 2, obstacle 1 and obstacle 2, respectively.\n\n\t\\item $s_0=(1,0,2,0,8,5)$ is the initial state according to the above figure \\ref{fig:google_car}.\n\n\t\\item $AP=\\{win,crash,p_i,q_j\\}$, $i$ and $j$ are the positions of car 1 and car 2, respectively. The two cars will knock into each other if their next positions of the next states are the same, for instance, $L((1,k,1,k,obs1,obs2)=\\{crash,p_{1k},q_{1k}\\}$. Of course, a car will also crash if it knocks into an obstacle, for example, if $j_1=obs1$, we have that $L((1,j_1,2,j_2,obs1,obs2)=\\{crash,p_{1j_1},q_{2j_2}\\}$. When both cars enter the position 10, the atomic proposition $win$ is true, that is, they have arrived the destinations.\n\n\t\\item $Act=\\{wait,keep,switch\\}$. If a car takes an action $wait$, it will remain in the same position next moment; If a car takes an action $keep$, it will enter the next position next moment; If a car takes an action $switch$, it will change lanes.\n\n\t\\item We can easily get the transition function $T$ according to the definition of $Act$. For example, we have $T((1,4,2,4,8,5),(keep,switch))=(1,5,1,4,8,5)$, which means that car 2 changes lanes in the position 4 while car 1 is keeping its velocity into the position 5.\n\\end{itemize}\n\n%There are several strategies for the two cars. Given the current state $s=(i_1,j_1,i_2,j_2,obs1,obs2)$. We only consider the following strategies:\n%\\begin{itemize}\n\t%\\item $\\sigma_1$: if $i_1\\neq i_2,j_1=j_2,obs1=j_1+1$ ($i_1\\neq i_2,j_1=j_2,obs2=j_2+1$), then the action for car 1 (car 2) is $wait$. When two cars are in the same y positions, and a car is in front of an obstacle, the car cannot change lanes, instead wait.\n\t%\\item $\\sigma_2$: if $i_1\\neq i_2,j_1\\neq j_2,obs1=j_1+1$ ($i_1\\neq i_2,j_1\\neq j_2,obs2=j_2+1$), then the action for car 1 (car 2) is $switch$. When two cars are not in the same y positions, and a car is in front of an obstacle, the car can change lanes immediately.\n\t%\\item $\\sigma_3$: if $i_1=i_2=1,j_1>j_2, obs1-1>j_1$ ($i_1=i_2=2,j_1<j_2, obs2-1>j_2$), then the action for car 1 (car 2) is $keep$. When two cars are in the same lane, and the obstacle is far away from one car, the car can keep the velocity all the way.\n%\\end{itemize}\n\n%Now we consider the formula $[true^*]\\neg crash$, for car 1, we can easily delete almost all the strategies except $\\sigma_1$,$\\sigma_2$ and $\\sigma_3$ by iterated elimination. That is true for car 2. We can obtain $\\mathcal G, s_0,\\chi\\vDash\\lsem a,b\\rsem_{k}[true^*]\\neg crash$.\n\n\nWe define the goal formula as $\\varphi_1=\\lsem a,b\\rsem_\\infty[true^*](\\neg carsh)\\land\\lsem a,b\\rsem_\\infty\\langle true^*\\rangle win$ or $\\varphi_2=\\lsem a,b\\rsem_\\infty[true^*](\\neg carsh)$, that is, both cars arrived at their destinations (or they keep driving all the time) without a crash. Although this example is deemed as a very simple multi-step game, there are a great many strategies available to the two cars to achieve the goal, because they can take all actions in most situations. However, they should think over appropriate strategies in some specific situation. They are likely to choose only one or two actions after iterated eliminations executed several times. For simplicity, we hereafter denote actions $keep$, $wait$ and $switch$ by K,W and S, respectively. We may only consider the following situations:%\\vspace{12pt}\n\\\\\n\n\\textbf{1. Situations without Obstacles:}\\\\\n\n\\begin{figure}[htbp]\n\\centering\n\\subfigure[situation 1]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1.3in]{Pic/1.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n%\\hspace{0.04\\textwidth}%\n\\subfigure[situation 2]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1in]{Pic/2.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n\\subfigure[situation 3]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1.2in]{Pic/3.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n\\caption{Situations without obstacles}\n\\label{fig:swithout}\n\\end{figure}\n%--------------------------------------------------------------------------------------\n\\begin{table}[ht]\n\\centering\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 1 (b follows a)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{KK,\\cancel{KW},KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{WK,WW,WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,SW,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & K & \\multicolumn{4}{l|}{\\cancel{KK},WK,SK} & \\multicolumn{1}{c|}{\\multirow{3}{*}{None}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{KW},WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{\\cancel{KS},WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{W,S\\},\\{K,W,S\\}} \\\\ \\hline\n\\end{tabular}\n%---------------------------------\n\\quad\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 1 (a follows b)} \\\\ \\hline\n\n\\multirow{3}{*}{b} & K & \\multicolumn{4}{l|}{KK,WK,SK} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete W}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{KW},WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{KS,WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{KK,\\cancel{KW},KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{None}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{WK,\\cancel{WW},WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,\\cancel{SW},SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,S\\}} \\\\ \\hline\n\\end{tabular}\n\\caption{Situation 1 in order}\n\\label{tab:s1inorder}\n\\end{table}\n\nWe now consider the 3 situations in Figure \\ref{fig:swithout}. In Table \\ref{tab:s1inorder} above, running iterated eliminations for agents in a different order leads to different preferred strategy sets, of which all strategy combinations can achieve the goal.  However, we can get the same preferred strategy set according to the definition by eliminating dominated strategies simultaneously in the following Table \\ref{tab:s1s2} and Table \\ref{tab:s3}.\n\n\\begin{table}[ht]\n\\centering\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 1 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{KK,\\cancel{KW},KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{WK,WW,WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,SW,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & K & \\multicolumn{4}{l|}{KK,WK,SK} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete W}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{KW},WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{KS,WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{W,S\\},\\{K,S\\}} \\\\ \\hline\n\\end{tabular}\n\\quad\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 2 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{KK,KW,KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete W,S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{WK,WW,\\cancel{WS}} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,\\cancel{SW},\\cancel{SS}} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & K & \\multicolumn{4}{l|}{KK,WK,SK} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete W,S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{KW,WW,\\cancel{SW}} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{KS,\\cancel{WS},\\cancel{SS}} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{K\\},\\{K\\}} \\\\ \\hline\n\\end{tabular}\n\\caption{Situation 1 and Situation 2 (simultaneously)}\n\\label{tab:s1s2}\n\\end{table}\n\n\\begin{table}[ht]\n\\centering\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 3 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{KK,KW,\\cancel{KS}} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{WK,WW,WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,SW,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & K & \\multicolumn{4}{l|}{KK,WK,SK} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{KW,WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{\\cancel{KS},WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{W,S\\},\\{K,W\\}} \\\\ \\hline\n\\end{tabular}\n\\caption{Situation 3 (simultaneously)}\n\\label{tab:s3}\n\\end{table}\n\nWe conclude that:\n\\begin{itemize}\n  \\item According the above 3 situations, we find that solutions obtained by definition keep accordance with those in real life. \n\n  \\item In any other situations, the two cars can choose any strategies. The two cars have the joint ability to achieve the goal if there is no obstacle in the road. In our logic, we have $\\mathcal G,s_0,\\chi\\vDash\\varphi_1$ and $\\mathcal G,s_0,\\chi\\vDash\\varphi_2$.\n\\end{itemize}\n\\quad\n\n\\textbf{2. Situations with Obstacles:}\\\\\n\n\\begin{figure}[ht]\n\\centering\n\\subfigure[situation 4]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1.3in]{Pic/4.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n%\\hspace{0.04\\textwidth}%\n\\subfigure[situation 5]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1in]{Pic/5.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n\\subfigure[situation 6]{\n\\begin{minipage}[t]{0.3\\linewidth}\n\\centering\n\\includegraphics[width=1.2in]{Pic/6.png}\n%\\caption{fig1}\n\\end{minipage}%\n}\n\\caption{Situations with obstacles}\n\\label{fig:swith}\n\\end{figure}\n\nNow it's time for us to take into account the situations where two cars will be blocked by obstacles. Note that the cars don't have to be prepared for the obstacles that are far away from the cars. When an obstacle is just ahead of a car, then the car should make an instant response. We consider the following 3 situations in Figure \\ref{fig:swith}\n\nIn situation 4, car a can take two actions ``wait'' and ``switch'' all the time, but cannot choose ``keep'' unless car b takes ``switch''. For car b, it cannot make the action ``keep'' in case of not knocking into the obstacle.\n\nIn situation 5, car a can only choose action ``keep'', while car b should choose ``wait'' until car a runs ahead of car b.\n\n\\begin{table}[htbp]\n\\centering \n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 4 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{\\cancel{KK},\\cancel{KW},KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K,W}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{WK},WW,WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SK,SW,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & \\cancel{K} & \\multicolumn{4}{l|}{} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K,W}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{KW},WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{KS,WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{S\\},\\{S\\}} \\\\ \\hline\n\\end{tabular}\n\\quad\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 5 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{\\cancel{KK},KW,KS} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete W,S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{WK},WW,\\cancel{WS}} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & \\cancel{S} & \\multicolumn{4}{l|}{} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & \\cancel{K} & \\multicolumn{4}{l|}{} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K,S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{KW,WW,\\cancel{SW}} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{KS,\\cancel{WS},\\cancel{SS}} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{K\\},\\{W\\}} \\\\ \\hline\n\\end{tabular}\n\\caption{Situation 4 and situation 5 (simultaneously)}\n\\end{table}\n\n\\begin{table}[htbp]\n\\centering\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{Situation 6 (simultaneously)} \\\\ \\hline\n\\multirow{3}{*}{a} & K & \\multicolumn{4}{l|}{\\cancel{KK},KW,\\cancel{KS}} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{\\cancel{WK},WW,WS} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{\\cancel{SK},SW,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\n\\multirow{3}{*}{b} & \\cancel{K} & \\multicolumn{4}{l|}{} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete K,S}} \\\\ \\cline{2-6}\n & W & \\multicolumn{4}{l|}{KW,WW,SW} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{\\cancel{KS},WS,SS} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\nBegin & \\multicolumn{6}{l|}{\\{K,W,S\\},\\{K,W,S\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{W,S\\},\\{W\\}} \\\\ \\hline\n\\end{tabular}\n\\caption{Situation 6 (simultaneously)}\n\\end{table}\n%\\rule{\\textwidth}{0.5pt}\n\nIn situation 6, the two cars will not wait all the time forever because of the subgoal $win$, that is, the two cars should reach the goal position eventually.\n\nWe can conclude that:\n\n\\begin{itemize}\n  \\item According the above 3 situations, we find that solutions obtained by definition keep accordance with those in real life. \n\n  \\item The two cars have the joint ability to achieve the goal, in our logic, we have $\\mathcal G,s_0,\\chi\\vDash\\varphi_1$ and $\\mathcal G,s_0,\\chi\\vDash\\varphi_2$.\n\\end{itemize}\n\\quad\n\n\\textbf{3. The joint ability In Google cars}\\\\\n\nWe precede to consider the specific situation in Figure \\ref{fig:google_car}. There are several results, however, we only list a simple sequence of states in Figure \\ref{fig:joint}.\n\n\\begin{figure}[htbp]\n\\centering\n\\includegraphics[width=0.45\\textwidth]{Pic/step1}\n\\includegraphics[width=0.45\\textwidth]{Pic/step2}\n\\vspace{30pt}\n\n\\includegraphics[width=0.45\\textwidth]{Pic/step3}\n\\includegraphics[width=0.45\\textwidth]{Pic/step4}\n\\vspace{30pt}\n\n\\includegraphics[width=0.45\\textwidth]{Pic/step5}\n\\includegraphics[width=0.45\\textwidth]{Pic/step6}\n\\vspace{30pt}\n\n\\includegraphics[width=0.45\\textwidth]{Pic/step7}\n\\includegraphics[width=0.45\\textwidth]{Pic/step8}\n\n\\vspace{30pt}\n\\includegraphics[width=0.45\\textwidth]{Pic/step9}\n\\includegraphics[width=0.45\\textwidth]{Pic/step10}\n\n\\vspace{30pt}\n\\includegraphics[width=0.45\\textwidth]{Pic/step11}\n\\caption{The joint ability in Google cars}\n\\label{fig:joint}\n\\end{figure}\n\n%--------------------------------------------------------------------------------\n\\clearpage\n\\newpage\n\n\\subsection{PRS (Paper, Rock, and Scissors)}\n\nWe define the CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ for the PRS game. \n\\begin{itemize}\n  \\item $Agt=\\{a,b,c\\}$,\n  \\item $St=\\{(s_a,s_b,s_c)\\}$, $s_a\\in\\{R,S\\}$, $s_b\\in\\{R,P,S\\}$, and $s_c\\in\\{R,P\\}$.\n  \\item $AP=\\{win,p_R,p_S,q_R,q_P,q_S,r_R,r_P\\}$, \n  \\item $Act=\\{R,P,S\\}$, however, $Act_a=\\{R,S\\}$, $Act_b=\\{P,S\\}$, and $Act_c=\\{R,P\\}$\n  \\item If the action sequence keeps order, the atomic proposition $win$ can be obtained. For example, the sequence $RRR$ and $SPP$ satisfy $R\\geq R\\geq R$ and $S\\geq P\\geq P$, respectively, so we have $L(R,R,R)=\\{win,p_R,q_R,r_R\\}$ and $L(S,P,P)=\\{win,p_S,q_P,r_P\\}$.\n\\end{itemize}\n\nAgents $a$, $b$ and $c$ make actions simultaneously. We consider the goal formula $\\varphi=\\langle true\\rangle win$ achieved if the action sequence keeps order. It is clear that there exists a winning strategy for agents $a$ and $b$. No matter how agent $c$ acts, agent $a$ and agent $b$ both have a coalition strategy which is $SP$ to achieve the goal $\\varphi$. Therefore, we have $\\mathcal G,s_0,\\chi\\vDash\\llangle a,b\\rrangle_0\\langle true\\rangle win$ and $\\mathcal G,s_0,\\chi\\vDash\\lsem a,b,c\\rsem_k\\langle true\\rangle win$, and $\\mathcal G, s_0,\\chi\\vDash\\lsem a,b\\rsem_{k}\\langle true\\rangle win$ for all $k\\in\\mathbb N_+$.\n\nThe results are different with the different elimination order. The procedure of iterated elimination for coalition $abc$ is as following:\\\\\n\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{STAGE 1 (order bac)} \\\\ \\hline\n\\multirow{2}{*}{b} & P & \\multicolumn{4}{l|}{SPP,SPR} & \\multicolumn{1}{c|}{\\multirow{2}{*}{None}} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{RSP,SSP} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\\multirow{2}{*}{a} & R & \\multicolumn{4}{l|}{RSP} & \\multirow{2}{*}{delete R} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SPR,SPP,SSP} &  \\\\ \\hline\n\\multirow{2}{*}{c} & R & \\multicolumn{4}{l|}{SPR} & \\multirow{2}{*}{delete R} \\\\ \\cline{2-6}\n & P & \\multicolumn{4}{l|}{SPP,SPR} &  \\\\ \\hline\nBegin & \\multicolumn{6}{l|}{\\{R,S\\},\\{P,S\\},\\{R,P\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{S\\},\\{P,S\\},\\{P\\}} \\\\ \\hline\n\\end{tabular}\n\\quad\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{STAGE 1 (order abc)} \\\\ \\hline\n\\multirow{2}{*}{a} & R & \\multicolumn{4}{l|}{RSP} & \\multicolumn{1}{c|}{\\multirow{2}{*}{delete R}} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SPR,SPP,SSP} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\\multirow{2}{*}{b} & P & \\multicolumn{4}{l|}{SPR,SPP} & \\multirow{2}{*}{delete S} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{SSP} &  \\\\ \\hline\n\\multirow{2}{*}{c} & R & \\multicolumn{4}{l|}{SPR} & \\multirow{2}{*}{None} \\\\ \\cline{2-6}\n & P & \\multicolumn{4}{l|}{SPP} &  \\\\ \\hline\nBegin & \\multicolumn{6}{l|}{\\{R,S\\},\\{P,S\\},\\{R,P\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{S\\},\\{P\\},\\{R,P\\}} \\\\ \\hline\n\\end{tabular}\\\\\n\nNow, we consider another example where $Act_a=\\{P,R,S\\}$, $Act_b=\\{R,P\\}$, and $Act_c=\\{R,P\\}$, the winning strategy for agent $a$ and agent $b$ is $PP$, we can obtain that $\\mathcal G,s_0,\\chi\\vDash\\llangle a,b\\rrangle_0\\langle true\\rangle win$, $\\mathcal G, s_0,\\chi\\vDash\\lsem a,b\\rsem_{k}\\langle true\\rangle win$ and $\\mathcal G, s_0,\\chi\\vDash\\lsem a,b,c\\rsem_{k}\\langle true\\rangle win$for all $k\\geq 1$. Coalition $ab$ and coalition $abc$ both have the joint ability to achieve the formula $\\langle true\\rangle win$.\n\nThe procedure of iterated elimination for coalition $abc$ is as following:\\\\\n\n\\begin{tabular}{|l|l|l|l|l|l|l|}\n\\hline\n\\multicolumn{7}{|c|}{STAGE 1} \\\\ \\hline\n\\multirow{3}{*}{a} & P & \\multicolumn{4}{l|}{PRR,PPP,PPR} & \\multicolumn{1}{c|}{\\multirow{3}{*}{delete R,S}} \\\\ \\cline{2-6}\n & R & \\multicolumn{4}{l|}{RRR} & \\multicolumn{1}{c|}{} \\\\ \\cline{2-6}\n & S & \\multicolumn{4}{l|}{RPP,RPR} & \\multicolumn{1}{c|}{} \\\\ \\hline\n\\multirow{2}{*}{b} & R & \\multicolumn{4}{l|}{PRR} & \\multirow{2}{*}{delete R} \\\\ \\cline{2-6}\n & P & \\multicolumn{4}{l|}{PPP,PPR} &  \\\\ \\hline\n\\multirow{2}{*}{c} & R & \\multicolumn{4}{l|}{PPR} & \\multirow{2}{*}{None} \\\\ \\cline{2-6}\n & P & \\multicolumn{4}{l|}{PPP} &  \\\\ \\hline\nBegin & \\multicolumn{6}{l|}{\\{P,R,S\\},\\{R,P\\},\\{R,P\\}} \\\\ \\hline\nEnd & \\multicolumn{6}{l|}{\\{P\\},\\{P\\},\\{R,P\\}} \\\\ \\hline\n\\end{tabular}\n\n\n%We can also consider a more complex game named rock-paper-scissors-Spock-lizard. Resolution and gesture diagrams for rock-paper-scissors-Spock-lizard is as following:\n%\\begin{figure}[ht]\n%\\centering\n%\\includegraphics[width=7cm]{Pic/prs1}\n%\\quad\n%\\includegraphics[width=7cm]{Pic/prs2}\n%\\end{figure}\n%\\newpage\n\n\n\n\n\n\n\n%--------------------------------------------------------------------------------\n\\subsection{Prisoner's Dilemma}\nVersion 1: \n\nThe CGS $\\mathcal G_1\\triangleq(Agt,St,AP,Act,L,T,s_0)$ is depicted in Figure  \\ref{pd}, where the agents ``Accomplice-1'' and ``Accomplice-2'' in $Agt\\triangleq\\{A_1,A_2\\}$ can choose an action in $Act\\triangleq\\{C,D\\}$, which stand for ``cooperation'' and ``defection'', respectively. There are four states in $St\\triangleq\\{s_i,s_{A_1},s_{A_2},s_j\\}$. In the idle state $s_i$ the agents are waiting for the interrogation, while $s_j$ represents the jail for both of them. Instead of remaining state $s_{A_1}$, and $s_{A_2}$ indicate the situations in which only one of the agents becomes definitely free. To characterize the different meaning of these states, we use the atomic propositions in $AP\\triangleq\\{f_{A_1},f_{A_2}\\}$, which denote who is ``free'', by defining the following labeling: $L(s_i)\\triangleq\\{f_{A_1},f_{A_2}\\}$, $L(s_{A_1})\\triangleq\\{f_{A_1}\\}$, $L(s_{A_2})\\triangleq\\{f_{A_2}\\}$, and $L(s_j)\\triangleq\\emptyset$. The transition function $T$ can be easily deduced by the figure.\n\nWe define the goal formula $\\varphi_1\\triangleq[true^*]f_{A_1}\\land[true^*]f_{A_2}$ which is equal to the LTL formula $Gf_{A_1}\\land Gf_{A_2}$. \n\nAs the strategy space is quite large, we only consider three kinds of strategies that both of them can use: \n\\begin{itemize}\n  \\item $\\sigma_C$: cooperation all the time;\n  \\item $\\sigma_D$: defection all the time;\n  \\item $\\sigma_{Alt}$: cooperation alternates with defection.\n\\end{itemize}\n\nWe can obtain $Str_{\\{A_1,A2\\}}^{Pref^0}(\\varphi_1)=\\{\\sigma_C,\\sigma_D,\\sigma_{Alt}\\}\\times\\{\\sigma_C,\\sigma_D,\\sigma_{Alt}\\}$. It is clear that the strategy profile $(\\sigma_D,\\sigma_C)$ cannot achieve the goal formula $\\varphi_1$, that is, $\\mathcal G_1,\\chi[A_1\\mapsto\\sigma_D,A_2\\mapsto\\sigma_C],s_i\\nvDash\\varphi_1$, so we have $\\mathcal G_1,\\chi,s_i\\nvDash\\lsem\\{A_1,A_2\\}\\rsem_0\\varphi_1$.\n\nHowever, after execute the iterated elimination algorithm once, we get $Str_{\\{A_1,A2\\}}^{Pref^1}(\\varphi)=\\{\\sigma_C,\\sigma_D,\\sigma_{Alt}\\}\\times\\{\\sigma_C,\\sigma_D,\\sigma_{Alt}\\}$. We can thus conclude that $\\mathcal G_1,\\chi,s_i\\nvDash\\lsem\\{A_1,A_2\\}\\rsem_1\\varphi_1$ and $\\mathcal G_1,\\chi,s_i\\nvDash\\lsem\\{A_1,A_2\\}\\rsem_\\infty\\varphi_1$. \n\nSimilarly, for $k\\in\\mathbb N$, $\\mathcal G_1,\\chi,s_i\\nvDash\\lsem\\{A_1\\}\\rsem_k\\varphi_1$ and $\\mathcal G_1,\\chi,s_i\\nvDash\\lsem\\{A_1\\}\\rsem_\\infty\\varphi_1$.\n\n\\begin{figure}[ht]\n\\centering\n\\includegraphics[width=4cm]{Pic/pd.png}\n\\caption{The CGS $\\mathcal G_{PD}$}\n\\label{pd}\n\\end{figure}\n\nVersion 2:\n\nNow we construct a 3-prisoner dilemma. We follow the principle that the minority is subject to the majority, that is, if more than two persons cooperate (respectively, defect), then they three are all free (respectively, in jail). We define the CGS $\\mathcal G_2\\triangleq(Agt,St,AP,Act,L,T,s_0)$, where the agents ``Accomplice-1'', ``Accomplice-2'' and ``Accomplice-3'' in $Agt\\triangleq\\{A_1,A_2,A_3\\}$ will choose an action in $Act\\triangleq\\{C,D\\}$, which stand for ``cooperation'' and ``defection'', respectively. There are eight states in $St\\triangleq\\{s_i,s_j\\}$. In the idle state $s_i$ the agents are waiting for the interrogation, while $s_j$ represents the jail for all of them. To characterize the different meaning of these states, we use the atomic propositions in $AP\\triangleq\\{f_{A_1},f_{A_2},f_{A_3}\\}$, which denote who is ``free'', by defining the following labeling: $L(s_i)\\triangleq\\{f_{A_1},f_{A_2},f_{A_3}\\}$, and $L(s_j)\\triangleq\\emptyset$. The transition function $T$ can be easily deduced by the above principle. For example, $T(s_i,CCD)=s_i$, because the number of persons cooperating is greater than that of defecting. Similarly, $T(s_i,CDD)=s_j$, because the number of persons defecting is greater than that of operating. \n\nWe define that goal formula is $\\varphi_2\\triangleq\\langle true\\rangle f_{A_3}$ which is equivalent to the LTL formula $X f_{A_3}$, which means that ``Accomplice-3'' will be free at the next moment. \n\nWe only need take into account strategy $\\sigma_C$ and $\\sigma_D$, because this is a one-step game. \n\nWe can obtain $Str_{\\{A_1,A2\\}}^{Pref^0}(\\varphi_2)=\\{\\sigma_C,\\sigma_D\\}\\times\\{\\sigma_C,\\sigma_D\\}$. In terms of accomplice-1, $\\mathcal G_2,\\chi[A_1\\mapsto\\sigma_C,A_2\\mapsto\\sigma_C,A_3\\mapsto\\sigma_C],s_i\\vDash\\varphi_2$ and $\\mathcal G_2,\\chi[A_1\\mapsto\\sigma_D,A_2\\mapsto\\sigma_C,A_3\\mapsto\\sigma_C],s_i\\vDash\\varphi_2$ both hold, however, $\\mathcal G_2,\\chi[A_1\\mapsto\\sigma_C,A_2\\mapsto\\sigma_C,A_3\\mapsto\\sigma_D],s_i\\vDash\\varphi_2$ holds, while $\\mathcal G_2,\\chi[A_1\\mapsto\\sigma_D,A_2\\mapsto\\sigma_C,A_3\\mapsto\\sigma_D],s_i\\nvDash\\varphi_2$ doesn't hold, we can get $\\sigma_C>_{\\varphi_2}\\sigma_D$ for accomplice-1 and $\\sigma_D$ should be deleted. According this iterated elimination method, we get $Str_{\\{A_1,A2\\}}^{Pref^1}(\\varphi)=\\{(\\sigma_C,\\sigma_C)\\}$.\nTherefore, we have that $\\mathcal G_2,\\chi,s_i\\nvDash\\lsem\\{A_1,A_2\\}\\rsem_0\\varphi_2$, $\\mathcal G_2,\\chi,s_i\\vDash\\lsem\\{A_1,A_2\\}\\rsem_1\\varphi_2$, and $\\mathcal G_2,\\chi,s_i\\vDash\\lsem\\{A_1,A_2\\}\\rsem_\\infty\\varphi_2$.\n\n\n\n\\subsection{The Squirrels World}\n\nSquirrels and acorns live in a plane, and there is a fixed set of squirrels acting simultaneously at any time. Each squirrel and acorn is located at a cell $(p, q)$, where $p,q\\in\\mathbb Z$, the set of integers, and each cell can contain any number of acorns and squirrels.\n\nEach squirrel can do actions below: pick up an acorn if he is located at the same cell as this acorn and does not hold any acorn in the current situation; drop an acorn that he is holding; move up, down, right and left a cell; also stay at the current location and do nothing $(nil)$. A squirrel can observe the action of another squirrel within a distance of one, but if the action is a sensing action, the result is not observable.\n\nThere are only two squirrels 1 and 2. As shown in Figure initially, squirrel 1 is located at the cell $(-1,-1)$ and 2 is located at the cell $(1,1)$, and any squirrel knows the location of the other one; there is only one acorn in each of the cell $(-1,1)$ and $(1,-1)$, and in other cells there are no acorns.\n\n\\begin{figure}[ht]\n\\centering\n\\includegraphics[width=5cm]{Pic/squirrel}\n\\caption{The Squirrels World and The Traffic Rule Example}\n\\label{squirrel}\n\\end{figure}\n\nWe model this squirrel world as a CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ where\n\n\\begin{itemize}\n  \\item The squirrels' positions and the acorns' distribution should be reflected in the states. The state set $St=\\prod_{i\\in \\{1,2\\}}(i\\times\\mathbb Z^2\\times\\{0,1\\})\\times\\prod_{n\\in\\mathbb N^+}(\\mathbb Z^2\\times n)\\cup\\{invalid\\}$, for example, $s_0=(1\\times(-1,-1)\\times 0)\\times(2\\times(1,1)\\times 0)\\times((-1,1)\\times 1)\\times((1,-1)\\times 1)$ means that squirrel 0 and squirrel 1 are in position $(-1,-1)$ and $(1,1)$, respectively, and they haven't pick the acorn. At the same time, there are two acorns in position $(-1,1)$ and $(1,-1)$, respectively.\n  \\item $AP=\\{hold_i\\}\\cup\\{up_i,down_i,left_i,right_i,pick_i,drop_i,nil_i\\}$, $i\\in\\{1,2\\}$. The atomic propositions $\\{hold_i\\}$ are defined as usually, however, note that $\\{up_i,down_i,left_i,right_i,pick_i,drop_i,nil_i\\}$ is the atomic action propositions set. In terms of atomic action propositions, if the $action_i$ is the available action for an agent in the current state $s$, then we have $action_i\\in L(s)$.\n  \\item $Act=\\{up,down,left,right,pick,drop,nil\\}$.\n  \\item If the squirrel $i$ pick the a acorn, then the atomic proposition $hold_i$ is true. For example, $\\{hold_1,hold_2\\}\\subseteq L((1\\times(1,-1)\\times 1)\\times(2\\times(-1,1)\\times 1)\\times((-1,1)\\times 0)\\times((1,-1)\\times 0))$ and $\\{hold_1,hold_2\\}\\subseteq L((1\\times(-1,1)\\times 1)\\times(2\\times(1,-1)\\times 1)\\times((-1,1)\\times 0)\\times((1,-1)\\times 0))$.\n  \\item Let $s_1=(1\\times(0,-1)\\times 0)\\times(2\\times(0,1)\\times 0)\\times((-1,1)\\times 1)\\times((1,-1)\\times 1)$, $T(s_0,(right,left))=s_1$, and let $s_2=(1\\times(1,-1)\\times 0)\\times(2\\times(-1,1)\\times 0)\\times((-1,1)\\times 1)\\times((1,-1)\\times 1)$ where agent 1 arrives at $(1,-1)$ and agent 2 arrives at $(-1,1)$, we have that $T(s_2,(pick,pick))=(1\\times(1,-1)\\times 1)\\times(2\\times(-1,1)\\times 1)\\times((-1,1)\\times 0)\\times((1,-1)\\times 0)$, the number of acorns are zero because agent 1 and agent 2 have picked up the acorns.\n\\end{itemize}\n\nWe consider the formula $\\varphi_1=<true;true;true>hold_1\\land hold_2$ and formula $\\varphi_2=<true;true;true;true;true>hold_1\\land hold_2$, $\\varphi_1$ ($\\varphi_2$, respectively) means that the two squirrels can both pick the acorns in 3 steps (5 steps, respectively) at most. We know that:\n\n\\begin{itemize}\n  \\item We have $\\mathcal G,\\lambda,s_0\\vDash\\llangle\\{1,2\\}\\rrangle_0\\varphi_1$. There exists a strategy profile $\\sigma=(\\sigma_1,\\sigma_2)$ where $\\sigma_1=<right;right;pick>$ and $\\sigma_2=<left;left;pick>$ such that $\\mathcal G,\\lambda[\\{1,2\\}\\mapsto\\sigma],s_0\\vDash\\varphi_1$. However, we also have $\\mathcal G,\\lambda,s_0\\nvDash\\lsem\\{1,2\\}\\rsem_0\\varphi_1$ and $\\mathcal G,\\lambda,s_0\\nvDash\\lsem\\{1,2\\}\\rsem_\\infty\\varphi_1$.\n  \\item Similarly, we have $\\mathcal G,\\lambda,s_0\\vDash\\llangle\\{1,2\\}\\rrangle_0\\varphi_2$ and $\\mathcal G,\\lambda,s_0\\nvDash\\lsem\\{1,2\\}\\rsem_\\infty\\varphi_2$.\n  \\item If we stipulate the first actions of both squirrels, that is, they perform the first action $\\langle right, left\\rangle$ or $\\langle up,down\\rangle$, we have $\\mathcal G,\\lambda,s_0\\vDash\\lsem\\{1,2\\}\\rsem_\\infty\\langle (right_1\\land left_2+up_1\\land down_2);true;true;true;true\\rangle hold_1\\land hold_2$.\n\n\\end{itemize}\n\n%\\newpage\n\n\\subsection{The Traffic Rule Example}\n\n\\begin{figure}[ht]\n\\centering\n\\includegraphics[width=6cm]{Pic/traffic}\n\\caption{The Traffic Rule Example}\n\\label{traffic}\n\\end{figure}\n\nAs shown in Figure \\ref{traffic}, we consider the traffic rule example. There are two cars ( car 1 and car 2) driving in opposite directions in which there are four lanes numbered as 1,2,3,4, and there are two actions $move(k) (k\\in\\{1,2,3,4\\})$ and $nil$ that are available. They will crash into each other if they are in the same location. We model this example as a CGS $\\mathcal G\\triangleq(Agt,St,AP,Act,L,T,s_0)$ where \n\n\\begin{itemize}\n  \\item $St=\\prod_{i\\in \\{1,2\\}}(i\\times\\{1,2,3,...,n\\}\\times\\{1,2,3,4\\})$. For example, the state $(1,m_1,k_1)\\times(2,m_2,k_2)$ indicates that car 1 (respectively, car 2) is in the position $(m_1,k_1)$ (respectively, $(m_2,k_2)$).\n\n  \\item $s_0=(1,1,2)\\times(2,n,3)$ is the initial state.\n\n  \\item $Agt=\\{1,2\\}$.\n\n  \\item $AP=\\{crash\\}\\cup\\{move(k)\\}$, $i\\in\\{1,2\\},k\\in\\{1,2,3,4\\}$. The atomic propositions are defined as usually, however, note that $move_i(k)$ is the atomic action propositions. In terms of atomic action propositions, if there exists a state $s$, and $move_i(k)$ is the available action about $s$, then we have $move_i(k)\\in L(s)$.\n\n  \\item $Act=\\{nil, move(k)\\}$, $k\\in\\{1,2,3,4\\}$.\n\n  \\item If the two cars are in the same position, then they will crash, otherwise, they will be safe. For example, $\\{crash\\}\\subseteq L((1,5,3)\\times(2,5,3))$. \n\n  \\item For example, $T((1,5,3)\\times(2,2,2),(move(4),move(2)))=((1,4,4)\\times(2,3,2))$.\n\\end{itemize}\n\nConsider the formula $\\varphi_1=[true^*]\\neg crash$, we know that $\\mathcal G, \\lambda, s_0\\nvDash\\lsem\\{1,2\\}\\rsem_\\infty\\varphi_1$, because there will be a state where the two cars crash into each other.\n\nHowever, if both cars follow the traffic rules that all vehicles should drive sticking to the right, then the two cars will have the joint ability to achieve the gaol. Specifically, we consider the formula $\\varphi_2=[(move_1(k_1)\\land move_2(k_2))^*]\\neg crash$, $k_1\\in\\{1,2\\}$, $k_2\\in\\{3,4\\}$, then we have $\\mathcal G, \\lambda, s_0\\vDash\\lsem\\{1,2\\}\\rsem_\\infty\\varphi_2$.\n\n%\\newpage\n\n\n%\\newpage\n%\\clearpage\n%\\bibliography{E:/Papers/LiuLab}\n%\\bibliographystyle{apalike}\n\\end{document}",
 					"file": "/E/Academic/Notes/Note.tex",
-					"file_size": 47151,
-					"file_write_time": 131919055105571971,
 					"settings":
 					{
-						"buffer_size": 46410,
+						"buffer_size": 46551,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
@@ -738,7 +736,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Create Package File"
+						"Package Control: Remove Package"
 					],
 					[
 						"up",
@@ -777,6 +775,13 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
+				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
+				"/F/Books/awesome-fantasy/contributing.md",
+				"/F/Books/awesome-fantasy/README.md",
+				"/D/Projects/test.md",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
 				"/E/Zotero/locate/engines.json",
 				"/D/Softwares/Anaconda3/etc/jupyter/jupyter_notebook_config.json",
 				"/D/Documents/Downloads/review guidelines.tex",
@@ -792,7 +797,6 @@
 				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/texpower/automata.sty",
 				"/D/Documents/Tencent Files/24747380/FileRecv/Note-zhaoshuai/Note20190102.tex",
 				"/C/Users/Zhaoshuai/.ssh/id_rsa",
-				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
 				"/E/Academic/Researches/Notes/.git/COMMIT_EDITMSG",
 				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/MyColor/yellowStone.tmTheme",
 				"/E/Academic/Researches/Notes/Note20190102.tex",
@@ -867,14 +871,12 @@
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
 				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
 				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
@@ -900,11 +902,7 @@
 				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
 				"/D/Documents/Desktop/learn.py",
 				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.560.459/HZ$D.560.460/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.272.3452/HZ$D.272.3453/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E13_20181130_BP/neural-network.py",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337026_16337027/blocksworld/blocksworld.pl"
+				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json"
 			],
 			"find":
 			{
@@ -1060,15 +1058,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 46410,
+								"buffer_size": 46551,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										12571,
-										12571
+										1226,
+										1226
 									]
 								],
 								"settings":
@@ -1079,10 +1077,88 @@
 									{
 										"close":
 										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
 											"1":
 											[
-												12877,
-												12886
+												978,
+												986
+											]
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1612,
+												1614
 											]
 										},
 										"icon":
@@ -1097,96 +1173,8 @@
 										{
 											"1":
 											[
-												12505,
-												12514
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												12613,
-												12614
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/dot.png",
-												"region.yellowish brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												12548,
-												12549
+												1053,
+												1055
 											]
 										},
 										"unmatched":
@@ -1195,36 +1183,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -1235,26 +1208,41 @@
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
 									],
 									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 4626.0,
+								"translation.y": 586.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1315,7 +1303,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,784,426,157,1373",
+			"position": "0,0,1,-32000,-32000,-1,-1,726,426,99,1373",
 			"project": "",
 			"replace":
 			{
