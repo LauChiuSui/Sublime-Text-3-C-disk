@@ -509,6 +509,10 @@
 				"selected_items":
 				[
 					[
+						"subse",
+						"subsection[short]{title}\tlatex-document"
+					],
+					[
 						"If",
 						"If{condition}{then-block}\talgorithm2e"
 					],
@@ -569,7 +573,7 @@
 					"file": "/E/Academic/Notes/Note.tex",
 					"settings":
 					{
-						"buffer_size": 46551,
+						"buffer_size": 72923,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -775,6 +779,14 @@
 			},
 			"file_history":
 			[
+				"/D/Documents/Desktop/style.css",
+				"/D/Projects/Data/test2.py",
+				"/D/Projects/Data/test.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.063.3785/HZ$D.063.3786/Note-xiong/Note20190118.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.340.2863/HZ$D.340.2865/Note-xiong/Note20190118.tex",
+				"/E/Academic/Documents/PreviousNotes/Note/Note.tex",
+				"/E/Academic/Notes/Note.tex",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
 				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
 				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
 				"/F/Books/awesome-fantasy/contributing.md",
@@ -807,7 +819,6 @@
 				"/D/Documents/I am now sleeping.tex",
 				"/E/Academic/Researches/Keys/keys.tex",
 				"/E/Academic/Notes/Reading/Reading.tex",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
 				"/E/Academic/Researches/Note/Note20190101.tex",
 				"/E/Academic/Researches/Files/OldNotes/Note20181128/Note20181128.tex",
 				"/D/Documents/Downloads/PSPACE-complete - Wikipedia.tex",
@@ -895,14 +906,7 @@
 				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/bot.py",
 				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/bestfirst.pl",
 				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bestfirst.pl",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bl.pl",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/blocksworld.pl",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
-				"/D/Documents/Desktop/learn.py",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/D/Documents/Desktop/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json"
+				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/P02/P02_16337057_16337049/blocksworld/code/bl.pl"
 			],
 			"find":
 			{
@@ -920,6 +924,10 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"\\end{comment}",
+					"\\begin{comment}",
+					"\\infty",
+					"thm",
 					"color",
 					"//",
 					"20",
@@ -935,6 +943,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"",
 					"\\geq"
 				],
 				"reverse": false,
@@ -970,109 +979,6 @@
 								{
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/Academic/Notes/Note.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 46551,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1226,
-										1226
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
@@ -1086,20 +992,35 @@
 										},
 										"unmatched":
 										{
-											"1":
-											[
-												978,
-												986
-											]
 										}
 									},
-									"bracket_highlighter.clone_regions":
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -1115,67 +1036,165 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
-									"bracket_highlighter.locations":
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/Academic/Notes/Note.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 72923,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										16339,
+										16339
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
 									{
 										"close":
 										{
 											"1":
 											[
-												1612,
-												1614
+												16745,
+												16746
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"region.orangish"
+												"Packages/BracketHighlighter/icons/square_bracket.png",
+												"region.bluish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												1053,
-												1055
+												16712,
+												16713
 											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
 										},
 										"unmatched":
 										{
@@ -1183,11 +1202,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1198,51 +1247,24 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+									"markdonw_live_preview_last_run": 1547691487.17,
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 586.0,
+								"translation.y": 4439.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1303,7 +1325,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,726,426,99,1373",
+			"position": "0,2,3,-32000,-32000,-1,-1,729,107,102,1054",
 			"project": "",
 			"replace":
 			{
