@@ -46,11 +46,11 @@
 	"color_scheme": "Packages/MyColor/yellowStone.tmTheme",
 	"fade_fold_buttons": true,
 	"font_face": "Source Code Pro",
-	"font_options":
-	[
-		"gdi"
-	],
-	"font_size": 12,
+	 "font_options":
+    [
+        "gdi"
+    ],
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Vintage"
