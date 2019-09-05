@@ -3,7 +3,7 @@
 	[
 	],
 	"last_version": 3200,
-	"last_window_id": 75,
+	"last_window_id": 94,
 	"log_indexing": false,
 	"settings":
 	{
@@ -15,8 +15,16 @@
 				"selected_items":
 				[
 					[
+						"parbox",
+						"parbox{width}{text}\tlatex-document"
+					],
+					[
+						"inclu",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
 						"subse",
-						"subsection[short]{title}\tlatex-document"
+						"subsection{title}\tlatex-document"
 					],
 					[
 						"If",
@@ -224,7 +232,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Upgrade Package"
+						"Package Control: Install Package"
 					],
 					[
 						"up",
@@ -263,6 +271,92 @@
 			},
 			"file_history":
 			[
+				"/E/Documents/AIcourse201901/E07_20181019_FF/E07_FF.tex",
+				"/E/Documents/AIcourse201901/E01_20190829_Maze/E01_Maze.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20.tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020.tex",
+				"/D/Documents/Desktop/jcan(6)(2).tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020 - 副本.tex",
+				"/D/Documents/Desktop/jcan(4).tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020(1).tex",
+				"/E/Documents/AIcourse201901/E01_20190829_Maze/Overview/Overview/overview.tex",
+				"/E/Documents/AIcourse201901/E12_20181123_EM/E12_EM.tex",
+				"/E/Documents/AICourse201901/Help.tex",
+				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview.tex",
+				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview/overview.tex",
+				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190821.tex",
+				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190819.tex",
+				"/E/Academic/Papers/AAAI2020-joint-ability -2019819/jcan20190728.tex",
+				"/E/Academic/Papers/AAAI2020/aaai2020.tex",
+				"/E/Academic/Papers/AAAI2020-joint-ability -2019728/jcan20190728.tex",
+				"/E/Academic/Papers/AuthorKit20(1)/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
+				"/E/Academic/Papers/AAAI2020/aaai.bst",
+				"/E/Academic/Papers/AAAI2020/aaai2020.bbl",
+				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
+				"/E/Academic/Papers/AAAI2020/jcan20190718.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6)(3).tex",
+				"/D/DESKTOP_TEMP/response(2).tex",
+				"/D/Documents/Desktop/ATL-JCAN-new.tex",
+				"/E/Academic/Papers/AAAI2020/jcan.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6).tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6).bbl",
+				"/E/Academic/Notes/Note.tex",
+				"/E/Academic/Presentations/20190706summer_camp/atl.tex",
+				"/D/Documents/Desktop/jcan(1)(1)(1)(1).tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(4).tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(3).tex",
+				"/E/Academic/Notes/Note20190628.tex",
+				"/E/Academic/Notes/ATL-JCAN-new.tex",
+				"/E/Academic/Papers/AAAI2020/liu_aaai20.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(1)(1).tex",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty",
+				"/E/Academic/Papers/AAAI2020/aaai19.sty",
+				"/E/Academic/Papers/AAAI2020/aaai.sty",
+				"/E/Academic/Notes/report20190621/report20190621.tex",
+				"/E/Academic/Notes/Keys.tex",
+				"/E/Academic/Notes/report20190513/report20190513.tex",
+				"/E/Academic/Notes/Note20190530.tex",
+				"/E/Academic/Notes/examples.tex",
+				"/E/Academic/Notes/Note20190606.tex",
+				"/E/Academic/Notes/Properties.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.453.1306/HZ$D.453.1307/examples.tex",
+				"/E/Academic/Notes/DrawGraph.tex",
+				"/E/Academic/Notes/Note20190419.tex",
+				"/E/Academic/Notes/Note20190524.tex",
+				"/E/Academic/Notes/Note20190517.tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-05/1.pddl",
+				"/E/Academic/Notes/report20190510/report20190510.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.306.4269/HZ$D.306.4270/MCMAS-SLK/examples/scheduler5.ispl",
+				"/E/Academic/Notes/Note20190426.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.895.926/HZ$D.895.927/ECNUbeamer.tex",
+				"/E/Academic/Presentations/report20160919/section2.tex",
+				"/E/Academic/Presentations/report20160919/presentation.tex",
+				"/D/Documents/Desktop/Abstract.txt",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3841/MCMAS-SLK/examples/scheduler5.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3840/MCMAS-SLK/examples/rock_paper_scissors_complex.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3839/MCMAS-SLK/README",
+				"/E/Academic/Notes/report20190505/report20190505.tex",
+				"/E/Academic/Notes/report20190415/report20190415.tex",
+				"/E/Academic/Notes/report20190415/report20190415.bbl",
+				"/D/Documents/Downloads/latexthesistemplate-2016-05-08/latexthesistemplate/LaTeXTemplate.tex",
+				"/E/Academic/Presentations/report20180404/report20180404.tex",
+				"/E/Academic/Notes/Note20190404.tex",
+				"/E/Academic/Notes/report20190415/report20190415.toc",
+				"/E/Papers/LiuLab.bib",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/LaTeXYZ.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXYZ.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_input_completions.py",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_cite_completions.py",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latexCommand.py",
+				"/E/Academic/Notes/Note20190404.bbl",
+				"/E/Academic/Notes/Note20190404.log",
+				"/E/Academic/mcmas-ldlk/test/google_car.ispl",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.195.915/HZ$D.195.916/mcmas-ldlk/README",
+				"/E/Documents/AIcourse201801/打包发给老师的/Project/P03/P03_Planning_and_Uncertainty.tex",
 				"/E/Academic/Documents/PreviousNotes/Note20181128/Note20181128.tex",
 				"/D/Documents/Desktop/20181220/20181220/Eager.tex",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.094.745/HZ$D.094.746/grab/manifest.json",
@@ -272,8 +366,6 @@
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.063.3785/HZ$D.063.3786/Note-xiong/Note20190118.tex",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.340.2863/HZ$D.340.2865/Note-xiong/Note20190118.tex",
 				"/E/Academic/Documents/PreviousNotes/Note/Note.tex",
-				"/E/Academic/Notes/Note.tex",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
 				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
 				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
 				"/F/Books/awesome-fantasy/contributing.md",
@@ -306,95 +398,11 @@
 				"/D/Documents/I am now sleeping.tex",
 				"/E/Academic/Researches/Keys/keys.tex",
 				"/E/Academic/Notes/Reading/Reading.tex",
-				"/E/Academic/Researches/Note/Note20190101.tex",
-				"/E/Academic/Researches/Files/OldNotes/Note20181128/Note20181128.tex",
-				"/D/Documents/Downloads/PSPACE-complete - Wikipedia.tex",
-				"/E/Academic/Researches/Note/Note.tex",
-				"/E/Academic/Researches/Note20181226/Note.tex",
-				"/E/Academic/Researches/Note20181212/Note20181212.tex",
-				"/E/Academic/Researches/Note20181226/Note.log",
-				"/E/Documents/AIcourse201801/Document/Help.tex",
-				"/D/Documents/Downloads/Introduction to Reinforcement Learning _ Algorithmia Blog.tex",
-				"/E/Documents/AIcourse201801/Exercise/E15_20181214_DL/E15_DL.tex",
-				"/D/Documents/Downloads/GitHub - yenchenlin_DeepLearningFlappyBird_ Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3851/background.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3849/deepqnet.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3850/method.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.034.4395/HZ$D.034.4398/DeepRL.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4969/deepqnet.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.175.3909/HZ$D.175.3910/DeepLearningFlappyBird-master/deep_q_network.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.600.1796/HZ$D.600.1797/DeepLearningFlappyBird-master/deep_q_network.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.1753/HZ$D.917.1754/DeepLearningFlappyBird-master/game/flappy_bird_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4968/intro.tex",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty",
-				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/DeepRL.bbl",
-				"/D/Documents/Desktop/NeuralQLearner.lua",
-				"/D/Documents/Desktop/ttt.vbs",
-				"/D/Documents/Desktop/test.vbs",
-				"/D/Documents/Desktop/test1.vbs",
-				"/D/Documents/Desktop/test3.vbs",
-				"/D/Documents/Desktop/test4.vbs",
-				"/D/Documents/Desktop/deleteRow.vbs",
-				"/D/Documents/Desktop/zero.vbs",
-				"/D/Documents/Desktop/code_updated.dta",
-				"/E/Documents/AIcourse201801/Exercise/E14_VariableElimination.py",
-				"/G/E15_20181214_DL/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cs231n/data_utils.py",
-				"/D/Documents/Desktop/数据/test1.py",
-				"/D/Documents/Desktop/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cnn-master/test_lenet_5.py",
-				"/D/Documents/Desktop/NumPyCNN-master/example.py",
-				"/D/Documents/Desktop/cs231n/classifiers/__init__.py",
-				"/D/Documents/Desktop/test.py",
-				"/D/Documents/Desktop/cnn-master/cnn_operations.py",
-				"/D/Documents/Desktop/cnn-master/mnist_operations.py",
-				"/D/Documents/Desktop/cs231n/fast_layers.py",
-				"/D/Documents/Desktop/cs231n/setup.py",
-				"/D/Documents/Desktop/cs231n/im2col.py",
-				"/D/Documents/Desktop/cs231n/layers.py",
-				"/D/Documents/Desktop/数据/test2.py",
-				"/D/Documents/Desktop/test1.vba",
-				"/D/Documents/Desktop/cs231n/datasets/get_datasets.sh",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2240/assignment2/README.md",
-				"/D/Documents/Desktop/README.md",
-				"/D/Documents/Desktop/assignment2/README.md",
-				"/D/Documents/Desktop/cs231n/solver.py",
-				"/E/Academic/Researches/Note20181128/Note20181128.tex",
-				"/D/Documents/Desktop/assignment2/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cs231n/classifiers/fc_net.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2250/assignment2/cs231n/data_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2249/assignment2/cs231n/solver.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2248/assignment2/cs231n/setup.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
-				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.464.2454/HZ$D.464.2456/BP.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/E14_RL.tex",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/test.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/Pic",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/bot.py"
+				"/E/Academic/Researches/Note/Note20190101.tex"
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 55.0
 			},
 			"find_in_files":
 			{
@@ -408,19 +416,63 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"end{frame}",
-					"\\end{comment}",
-					"\\begin{comment}",
-					"\\infty",
-					"thm",
+					"cancel",
+					"labelling",
+					"ADL$_{JCAN}$",
+					"ADL$_{jcan}^*$",
+					"upper",
+					"example",
+					"figure",
+					"\\em",
+					"eg",
+					"out(w,(\\sigma_A,\\sigma_{-A}))",
+					"\\mathcal G,w",
+					"ATL",
+					"[A]_\\infty^\\psi",
+					"[A]^\\psi",
+					"\\lsem A\\rsem_\\infty",
+					"\\llangle A\\rrangle_k",
+					"\\llangle A\\rrangle_{k+1}",
+					"\\lsem A\\rsem_{k+1}",
+					"\\lsem A\\rsem_k",
+					"[A]_k^\\psi",
+					"end{pf}",
+					"begin{pf}",
+					"G_g",
+					"\\vDash",
+					"thero",
+					"theroem",
+					"definition",
+					"df",
+					"section",
+					"A,\\psi,s)",
+					"(0,A,\\psi,s)",
+					"G",
+					"NE,(\\psi_1,\\cdots,\\psi_{|Agt|})",
+					"k,\\psi",
+					"N,(\\psi_1,\\cdots,\\psi_{|Agt|})",
+					"k,\\psi",
+					"G",
+					"rrangle",
+					"\\llangle",
+					"block",
+					"s.t.",
+					"prop",
+					"\\lceil",
+					"itemize",
+					"enumerate",
+					"itemize",
+					"block",
 					"color",
-					"//",
-					"20",
-					"12",
-					"\\gtrsim",
-					"emph",
-					"simu",
-					"\n\\"
+					"df",
+					"\\triangle",
+					"there",
+					"overline",
+					"block",
+					"df",
+					"block",
+					"Finite Traces",
+					"finite traces"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -428,8 +480,26 @@
 				"regex": false,
 				"replace_history":
 				[
-					"",
-					"\\geq"
+					"labeling",
+					"JADL",
+					"out(s,(\\sigma_A,\\sigma_{-A}))",
+					"\\mathcal G,s",
+					"[A]^\\infty_\\psi",
+					"[A]_\\psi",
+					"\\lsem A\\rsem^\\infty",
+					"\\llangle A\\rrangle^k",
+					"\\llangle A\\rrangle^{k+1}",
+					"\\lsem A\\rsem^{k+1}",
+					"\\lsem A\\rsem^k",
+					"[A]^k_\\psi",
+					"end{proof}",
+					"begin{proof}",
+					"G",
+					"\\models",
+					"\\lsem",
+					"such that",
+					"\\upharpoonright",
+					"\\triangleq"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -439,7 +509,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 52.0
 			},
 			"input":
 			{
@@ -469,7 +539,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 74.0
+				"height": 102.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -519,8 +589,16 @@
 				"selected_items":
 				[
 					[
+						"parbox",
+						"parbox{width}{text}\tlatex-document"
+					],
+					[
+						"inclu",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
 						"subse",
-						"subsection[short]{title}\tlatex-document"
+						"subsection{title}\tlatex-document"
 					],
 					[
 						"If",
@@ -571,42 +649,16 @@
 			"buffers":
 			[
 				{
-					"file": "/E/Academic/Notes/Keys.tex",
+					"file": "/E/Academic/Papers/AAAI2020/aaai20.tex",
 					"settings":
 					{
-						"buffer_size": 70126,
+						"buffer_size": 62548,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/Academic/Notes/Note.tex",
-					"settings":
-					{
-						"buffer_size": 87320,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Cygwin64/home/Zhaoshuai/mcmas-ldlk/README",
-					"settings":
-					{
-						"buffer_size": 637,
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/Academic/Notes/Note20190322.tex",
-					"settings":
-					{
-						"buffer_size": 11999,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -767,7 +819,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Upgrade Package"
+						"Package Control: Install Package"
 					],
 					[
 						"up",
@@ -806,8 +858,91 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.195.915/HZ$D.195.916/mcmas-ldlk/README",
+				"/E/Documents/AIcourse201901/E07_20181019_FF/E07_FF.tex",
+				"/E/Documents/AIcourse201901/E01_20190829_Maze/E01_Maze.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20.tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020.tex",
+				"/D/Documents/Desktop/jcan(6)(2).tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020 - 副本.tex",
+				"/D/Documents/Desktop/jcan(4).tex",
+				"/D/Documents/Desktop/ADL-jointability_AAAI-2020(1).tex",
+				"/E/Documents/AIcourse201901/E01_20190829_Maze/Overview/Overview/overview.tex",
+				"/E/Documents/AIcourse201901/E12_20181123_EM/E12_EM.tex",
+				"/E/Documents/AICourse201901/Help.tex",
+				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview.tex",
+				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview/overview.tex",
+				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190821.tex",
+				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190819.tex",
+				"/E/Academic/Papers/AAAI2020-joint-ability -2019819/jcan20190728.tex",
+				"/E/Academic/Papers/AAAI2020/aaai2020.tex",
+				"/E/Academic/Papers/AAAI2020-joint-ability -2019728/jcan20190728.tex",
+				"/E/Academic/Papers/AuthorKit20(1)/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
+				"/E/Academic/Papers/AAAI2020/aaai.bst",
+				"/E/Academic/Papers/AAAI2020/aaai2020.bbl",
+				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
+				"/E/Academic/Papers/AAAI2020/jcan20190718.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6)(3).tex",
+				"/D/DESKTOP_TEMP/response(2).tex",
+				"/D/Documents/Desktop/ATL-JCAN-new.tex",
+				"/E/Academic/Papers/AAAI2020/jcan.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6).tex",
+				"/E/Academic/Papers/AAAI2020/jcan(6).bbl",
 				"/E/Academic/Notes/Note.tex",
+				"/E/Academic/Presentations/20190706summer_camp/atl.tex",
+				"/D/Documents/Desktop/jcan(1)(1)(1)(1).tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(4).tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(3).tex",
+				"/E/Academic/Notes/Note20190628.tex",
+				"/E/Academic/Notes/ATL-JCAN-new.tex",
+				"/E/Academic/Papers/AAAI2020/liu_aaai20.tex",
+				"/E/Academic/Papers/AAAI2020/jcan(1)(1).tex",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty",
+				"/E/Academic/Papers/AAAI2020/aaai19.sty",
+				"/E/Academic/Papers/AAAI2020/aaai.sty",
+				"/E/Academic/Notes/report20190621/report20190621.tex",
+				"/E/Academic/Notes/Keys.tex",
+				"/E/Academic/Notes/report20190513/report20190513.tex",
+				"/E/Academic/Notes/Note20190530.tex",
+				"/E/Academic/Notes/examples.tex",
+				"/E/Academic/Notes/Note20190606.tex",
+				"/E/Academic/Notes/Properties.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.453.1306/HZ$D.453.1307/examples.tex",
+				"/E/Academic/Notes/DrawGraph.tex",
+				"/E/Academic/Notes/Note20190419.tex",
+				"/E/Academic/Notes/Note20190524.tex",
+				"/E/Academic/Notes/Note20190517.tex",
+				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-05/1.pddl",
+				"/E/Academic/Notes/report20190510/report20190510.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.306.4269/HZ$D.306.4270/MCMAS-SLK/examples/scheduler5.ispl",
+				"/E/Academic/Notes/Note20190426.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.895.926/HZ$D.895.927/ECNUbeamer.tex",
+				"/E/Academic/Presentations/report20160919/section2.tex",
+				"/E/Academic/Presentations/report20160919/presentation.tex",
+				"/D/Documents/Desktop/Abstract.txt",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3841/MCMAS-SLK/examples/scheduler5.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3840/MCMAS-SLK/examples/rock_paper_scissors_complex.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3839/MCMAS-SLK/README",
+				"/E/Academic/Notes/report20190505/report20190505.tex",
+				"/E/Academic/Notes/report20190415/report20190415.tex",
+				"/E/Academic/Notes/report20190415/report20190415.bbl",
+				"/D/Documents/Downloads/latexthesistemplate-2016-05-08/latexthesistemplate/LaTeXTemplate.tex",
+				"/E/Academic/Presentations/report20180404/report20180404.tex",
+				"/E/Academic/Notes/Note20190404.tex",
+				"/E/Academic/Notes/report20190415/report20190415.toc",
+				"/E/Papers/LiuLab.bib",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/LaTeXYZ.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXYZ.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_input_completions.py",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_cite_completions.py",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latexCommand.py",
+				"/E/Academic/Notes/Note20190404.bbl",
+				"/E/Academic/Notes/Note20190404.log",
+				"/E/Academic/mcmas-ldlk/test/google_car.ispl",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.195.915/HZ$D.195.916/mcmas-ldlk/README",
 				"/E/Documents/AIcourse201801/打包发给老师的/Project/P03/P03_Planning_and_Uncertainty.tex",
 				"/E/Academic/Documents/PreviousNotes/Note20181128/Note20181128.tex",
 				"/D/Documents/Desktop/20181220/20181220/Eager.tex",
@@ -818,7 +953,6 @@
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.063.3785/HZ$D.063.3786/Note-xiong/Note20190118.tex",
 				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.340.2863/HZ$D.340.2865/Note-xiong/Note20190118.tex",
 				"/E/Academic/Documents/PreviousNotes/Note/Note.tex",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
 				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
 				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
 				"/F/Books/awesome-fantasy/contributing.md",
@@ -851,93 +985,11 @@
 				"/D/Documents/I am now sleeping.tex",
 				"/E/Academic/Researches/Keys/keys.tex",
 				"/E/Academic/Notes/Reading/Reading.tex",
-				"/E/Academic/Researches/Note/Note20190101.tex",
-				"/E/Academic/Researches/Files/OldNotes/Note20181128/Note20181128.tex",
-				"/D/Documents/Downloads/PSPACE-complete - Wikipedia.tex",
-				"/E/Academic/Researches/Note/Note.tex",
-				"/E/Academic/Researches/Note20181226/Note.tex",
-				"/E/Academic/Researches/Note20181212/Note20181212.tex",
-				"/E/Academic/Researches/Note20181226/Note.log",
-				"/E/Documents/AIcourse201801/Document/Help.tex",
-				"/D/Documents/Downloads/Introduction to Reinforcement Learning _ Algorithmia Blog.tex",
-				"/E/Documents/AIcourse201801/Exercise/E15_20181214_DL/E15_DL.tex",
-				"/D/Documents/Downloads/GitHub - yenchenlin_DeepLearningFlappyBird_ Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3851/background.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3849/deepqnet.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.659.3848/HZ$D.659.3850/method.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.034.4395/HZ$D.034.4398/DeepRL.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4969/deepqnet.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.175.3909/HZ$D.175.3910/DeepLearningFlappyBird-master/deep_q_network.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.600.1796/HZ$D.600.1797/DeepLearningFlappyBird-master/deep_q_network.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.1753/HZ$D.917.1754/DeepLearningFlappyBird-master/game/flappy_bird_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.207.4967/HZ$D.207.4968/intro.tex",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty",
-				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/DeepRL.bbl",
-				"/D/Documents/Desktop/NeuralQLearner.lua",
-				"/D/Documents/Desktop/ttt.vbs",
-				"/D/Documents/Desktop/test.vbs",
-				"/D/Documents/Desktop/test1.vbs",
-				"/D/Documents/Desktop/test3.vbs",
-				"/D/Documents/Desktop/test4.vbs",
-				"/D/Documents/Desktop/deleteRow.vbs",
-				"/D/Documents/Desktop/zero.vbs",
-				"/D/Documents/Desktop/code_updated.dta",
-				"/E/Documents/AIcourse201801/Exercise/E14_VariableElimination.py",
-				"/G/E15_20181214_DL/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cs231n/data_utils.py",
-				"/D/Documents/Desktop/数据/test1.py",
-				"/D/Documents/Desktop/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cnn-master/test_lenet_5.py",
-				"/D/Documents/Desktop/NumPyCNN-master/example.py",
-				"/D/Documents/Desktop/cs231n/classifiers/__init__.py",
-				"/D/Documents/Desktop/test.py",
-				"/D/Documents/Desktop/cnn-master/cnn_operations.py",
-				"/D/Documents/Desktop/cnn-master/mnist_operations.py",
-				"/D/Documents/Desktop/cs231n/fast_layers.py",
-				"/D/Documents/Desktop/cs231n/setup.py",
-				"/D/Documents/Desktop/cs231n/im2col.py",
-				"/D/Documents/Desktop/cs231n/layers.py",
-				"/D/Documents/Desktop/数据/test2.py",
-				"/D/Documents/Desktop/test1.vba",
-				"/D/Documents/Desktop/cs231n/datasets/get_datasets.sh",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2240/assignment2/README.md",
-				"/D/Documents/Desktop/README.md",
-				"/D/Documents/Desktop/assignment2/README.md",
-				"/D/Documents/Desktop/cs231n/solver.py",
-				"/E/Academic/Researches/Note20181128/Note20181128.tex",
-				"/D/Documents/Desktop/assignment2/cs231n/classifiers/cnn.py",
-				"/D/Documents/Desktop/cs231n/classifiers/fc_net.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2250/assignment2/cs231n/data_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2249/assignment2/cs231n/solver.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2247/HZ$D.206.2248/assignment2/cs231n/setup.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2241/assignment2/cs231n/layer_utils.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2245/assignment2/cs231n/optim.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.206.2239/HZ$D.206.2244/assignment2/cs231n/layers.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot/qvalues.json",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.256/P02_CSP_KRR(钱剑权 16337198)/task1/case1.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.634.253/HZ$D.634.257/P02_CSP_KRR(钱剑权 16337198)/task1/coding.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.944.4187/HZ$D.944.4189/E14_16337209/flappybird/bot.py",
-				"/E/Documents/AIcourse201801/Project/P02_CSP_KRR/qlearning.py",
-				"/E/Documents/AIcourse201701/Exercises/AI16_20180102/qlearning.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.464.2454/HZ$D.464.2456/BP.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/E14_RL.tex",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/learn.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/flappy.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/initialize_qvalues.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/qvalues.json",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird-qlearning-bot-master/flappybird-qlearning-bot/test.py"
+				"/E/Academic/Researches/Note/Note20190101.tex"
 			],
 			"find":
 			{
-				"height": 57.0
+				"height": 55.0
 			},
 			"find_in_files":
 			{
@@ -951,20 +1003,63 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"true",
-					"end{frame}",
-					"\\end{comment}",
-					"\\begin{comment}",
-					"\\infty",
-					"thm",
+					"cancel",
+					"labelling",
+					"ADL$_{JCAN}$",
+					"ADL$_{jcan}^*$",
+					"upper",
+					"example",
+					"figure",
+					"\\em",
+					"eg",
+					"out(w,(\\sigma_A,\\sigma_{-A}))",
+					"\\mathcal G,w",
+					"ATL",
+					"[A]_\\infty^\\psi",
+					"[A]^\\psi",
+					"\\lsem A\\rsem_\\infty",
+					"\\llangle A\\rrangle_k",
+					"\\llangle A\\rrangle_{k+1}",
+					"\\lsem A\\rsem_{k+1}",
+					"\\lsem A\\rsem_k",
+					"[A]_k^\\psi",
+					"end{pf}",
+					"begin{pf}",
+					"G_g",
+					"\\vDash",
+					"thero",
+					"theroem",
+					"definition",
+					"df",
+					"section",
+					"A,\\psi,s)",
+					"(0,A,\\psi,s)",
+					"G",
+					"NE,(\\psi_1,\\cdots,\\psi_{|Agt|})",
+					"k,\\psi",
+					"N,(\\psi_1,\\cdots,\\psi_{|Agt|})",
+					"k,\\psi",
+					"G",
+					"rrangle",
+					"\\llangle",
+					"block",
+					"s.t.",
+					"prop",
+					"\\lceil",
+					"itemize",
+					"enumerate",
+					"itemize",
+					"block",
 					"color",
-					"//",
-					"20",
-					"12",
-					"\\gtrsim",
-					"emph",
-					"simu",
-					"\n\\"
+					"df",
+					"\\triangle",
+					"there",
+					"overline",
+					"block",
+					"df",
+					"block",
+					"Finite Traces",
+					"finite traces"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -972,8 +1067,26 @@
 				"regex": false,
 				"replace_history":
 				[
-					"",
-					"\\geq"
+					"labeling",
+					"JADL",
+					"out(s,(\\sigma_A,\\sigma_{-A}))",
+					"\\mathcal G,s",
+					"[A]^\\infty_\\psi",
+					"[A]_\\psi",
+					"\\lsem A\\rsem^\\infty",
+					"\\llangle A\\rrangle^k",
+					"\\llangle A\\rrangle^{k+1}",
+					"\\lsem A\\rsem^{k+1}",
+					"\\lsem A\\rsem^k",
+					"[A]^k_\\psi",
+					"end{proof}",
+					"begin{proof}",
+					"G",
+					"\\models",
+					"\\lsem",
+					"such that",
+					"\\upharpoonright",
+					"\\triangleq"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -984,24 +1097,24 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Academic/Notes/Keys.tex",
+							"file": "/E/Academic/Papers/AAAI2020/aaai20.tex",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 70126,
+								"buffer_size": 62548,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										48121,
+										48121
 									]
 								],
 								"settings":
@@ -1012,130 +1125,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												49139,
+												49146
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
 										},
 										"open":
 										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 240.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/Academic/Notes/Note.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 87320,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										919,
-										889
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
+											"1":
+											[
+												48290,
+												48297
+											]
 										},
 										"unmatched":
 										{
@@ -1143,94 +1153,11 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												918,
-												919
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												906,
-												907
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1241,16 +1168,6 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1261,276 +1178,132 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												48120,
+												48121
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												48104,
+												48105
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content"
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 324.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Cygwin64/home/Zhaoshuai/mcmas-ldlk/README",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 637,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 31432.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/Academic/Notes/Note20190322.tex",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11999,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8743,
-										8743
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												8977,
-												8978
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/dot.png",
-												"region.yellowish brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												8851,
-												8852
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												8852,
-												8853
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												8742,
-												8743
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 5419.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1538,7 +1311,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 45.0
+				"height": 52.0
 			},
 			"input":
 			{
@@ -1588,11 +1361,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,729,107,102,1054",
+			"position": "0,2,3,-1,-1,-1,-1,785,932,158,1879",
 			"project": "",
 			"replace":
 			{
-				"height": 86.0
+				"height": 102.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1635,7 +1408,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 65,
+			"window_id": 80,
 			"workspace_name": ""
 		}
 	],

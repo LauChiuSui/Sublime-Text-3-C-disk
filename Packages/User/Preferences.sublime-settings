@@ -29,7 +29,9 @@
 		"texify",
 		"indistinguishability",
 		"subformulas",
-		"subformula"
+		"subformula",
+		"equilibria",
+		"solidary"
 	],
 	"auto_complete_selector": "source.text",
 	"auto_complete_triggers":
@@ -50,7 +52,7 @@
 	[
 		"gdi"
 	],
-	"font_size": 16,
+	"font_size": 20,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -60,6 +62,8 @@
 		"pdflatex",
 		"thm"
 	],
+	"show_encoding": true,
+	"show_line_endings": true,
 	"spell_check": true,
 	"theme": "Default.sublime-theme"
 }
