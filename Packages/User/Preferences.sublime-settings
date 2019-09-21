@@ -45,7 +45,7 @@
 			"selector": "text.tex.latex"
 		}
 	],
-	"color_scheme": "Packages/MyColor/yellowStone.tmTheme",
+	"color_scheme": "Packages/MyColor/wombat.tmTheme",
 	"fade_fold_buttons": true,
 	"font_face": "Source Code Pro",
 	"font_options":
