@@ -1,1 +1,1 @@
-{"sublime_text": "*", "version": "3.12.0", "url": "https://github.com/packagecontrol/pyyaml/issues", "platforms": ["*"], "description": "Python PyYAML module"}
+{"description": "Python PyYAML module", "url": "https://github.com/packagecontrol/pyyaml/issues", "platforms": ["*"], "version": "5.1.1", "sublime_text": "*"}

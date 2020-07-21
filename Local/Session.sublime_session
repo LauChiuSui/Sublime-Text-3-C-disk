@@ -3,17 +3,33 @@
 	[
 	],
 	"last_version": 3200,
-	"last_window_id": 95,
+	"last_window_id": 125,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 568.0,
+		"new_window_height": 514.4,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"For",
+						"ForAll{condition}{forall-block}\talgorithm2e"
+					],
+					[
+						"include",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
+						"includ",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
+						"emt",
+						"emptyset\tlatex-mathsymbols"
+					],
 					[
 						"parbox",
 						"parbox{width}{text}\tlatex-document"
@@ -183,7 +199,7 @@
 					],
 					[
 						"Packages/LaTeXTools/LaTeX.sublime-build",
-						"Traditional"
+						"PdfLaTeX"
 					]
 				],
 				[
@@ -255,7 +271,7 @@
 			},
 			"console":
 			{
-				"height": 171.0,
+				"height": 296.0,
 				"history":
 				[
 				]
@@ -271,138 +287,138 @@
 			},
 			"file_history":
 			[
-				"/D/Documents/Tencent Files/24747380/FileRecv/Othello_revised.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.364.1034/HZ$D.364.1036/E03_20190911_Othello/Othello.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.991.344/HZ$D.991.345/Othello.cpp",
-				"/E/Academic/Papers/AAAI2020/aaai20_20190906.tex",
-				"/E/Documents/AIcourse201701/Theory/T01/templet_en.tex",
-				"/E/Documents/AIcourse201801/Theory/T01_Search/template_en.tex",
-				"/E/Documents/AIcourse201801/Theory/T02_CSP_KRR/template_en.tex",
-				"/E/Academic/Notes/Note20190426.tex",
-				"/E/Papers/LiuLab.bib",
-				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-09/template_en(1).tex",
-				"/D/Documents/Tencent Files/24747380/FileRecv/ATL-JCAN-new.bib",
-				"/E/Academic/Papers/AAAI2020/aaai20.tex",
-				"/E/Academic/Papers/AAAI2020/aaai20_20190905.tex",
-				"/D/DESKTOP_TEMP/ADL-jointability_AAAI-2020.tex",
-				"/E/Academic/Graph/DrawGraph.tex",
-				"/E/Documents/AIcourse201901/E07_20181019_FF/E07_FF.tex",
-				"/E/Documents/AIcourse201901/E01_20190829_Maze/E01_Maze.tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020.tex",
-				"/D/Documents/Desktop/jcan(6)(2).tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020 - 副本.tex",
-				"/D/Documents/Desktop/jcan(4).tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020(1).tex",
-				"/E/Documents/AIcourse201901/E01_20190829_Maze/Overview/Overview/overview.tex",
+				"/E/Academic/Presentations/report20191205/report20191205.tex",
+				"/D/Documents/Desktop/PPT/NaiveBayes/E10_NB.tex",
 				"/E/Documents/AIcourse201901/E12_20181123_EM/E12_EM.tex",
-				"/E/Documents/AICourse201901/Help.tex",
-				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview.tex",
-				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview/overview.tex",
-				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190821.tex",
-				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190819.tex",
-				"/E/Academic/Papers/AAAI2020-joint-ability -2019819/jcan20190728.tex",
-				"/E/Academic/Papers/AAAI2020/aaai2020.tex",
-				"/E/Academic/Papers/AAAI2020-joint-ability -2019728/jcan20190728.tex",
-				"/E/Academic/Papers/AuthorKit20(1)/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
-				"/E/Academic/Papers/AAAI2020/aaai.bst",
-				"/E/Academic/Papers/AAAI2020/aaai2020.bbl",
-				"/E/Academic/Papers/AAAI2020/jcan20190718.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6)(3).tex",
-				"/D/DESKTOP_TEMP/response(2).tex",
-				"/D/Documents/Desktop/ATL-JCAN-new.tex",
-				"/E/Academic/Papers/AAAI2020/jcan.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6).tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6).bbl",
-				"/E/Academic/Notes/Note.tex",
-				"/E/Academic/Presentations/20190706summer_camp/atl.tex",
-				"/D/Documents/Desktop/jcan(1)(1)(1)(1).tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(4).tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(3).tex",
-				"/E/Academic/Notes/Note20190628.tex",
-				"/E/Academic/Notes/ATL-JCAN-new.tex",
-				"/E/Academic/Papers/AAAI2020/liu_aaai20.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(1)(1).tex",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty",
-				"/E/Academic/Papers/AAAI2020/aaai19.sty",
-				"/E/Academic/Papers/AAAI2020/aaai.sty",
-				"/E/Academic/Notes/report20190621/report20190621.tex",
-				"/E/Academic/Notes/Keys.tex",
-				"/E/Academic/Notes/report20190513/report20190513.tex",
-				"/E/Academic/Notes/Note20190530.tex",
-				"/E/Academic/Notes/examples.tex",
-				"/E/Academic/Notes/Note20190606.tex",
-				"/E/Academic/Notes/Properties.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.453.1306/HZ$D.453.1307/examples.tex",
-				"/E/Academic/Notes/DrawGraph.tex",
-				"/E/Academic/Notes/Note20190419.tex",
-				"/E/Academic/Notes/Note20190524.tex",
-				"/E/Academic/Notes/Note20190517.tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-05/1.pddl",
-				"/E/Academic/Notes/report20190510/report20190510.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.306.4269/HZ$D.306.4270/MCMAS-SLK/examples/scheduler5.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.895.926/HZ$D.895.927/ECNUbeamer.tex",
-				"/E/Academic/Presentations/report20160919/section2.tex",
-				"/E/Academic/Presentations/report20160919/presentation.tex",
-				"/D/Documents/Desktop/Abstract.txt",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3841/MCMAS-SLK/examples/scheduler5.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3840/MCMAS-SLK/examples/rock_paper_scissors_complex.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3839/MCMAS-SLK/README",
-				"/E/Academic/Notes/report20190505/report20190505.tex",
-				"/E/Academic/Notes/report20190415/report20190415.tex",
-				"/E/Academic/Notes/report20190415/report20190415.bbl",
-				"/D/Documents/Downloads/latexthesistemplate-2016-05-08/latexthesistemplate/LaTeXTemplate.tex",
-				"/E/Academic/Presentations/report20180404/report20180404.tex",
-				"/E/Academic/Notes/Note20190404.tex",
-				"/E/Academic/Notes/report20190415/report20190415.toc",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/LaTeXYZ.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXYZ.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_input_completions.py",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_cite_completions.py",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latexCommand.py",
-				"/E/Academic/Notes/Note20190404.bbl",
-				"/E/Academic/Notes/Note20190404.log",
-				"/E/Academic/mcmas-ldlk/test/google_car.ispl",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/Documents/Desktop/PPT/EM/EM.tex",
+				"/D/Documents/Desktop/PPT/DeepLearning/E15_DL.tex",
+				"/D/Documents/Desktop/PPT/DeepLearning/DeepLearning.tex",
+				"/D/Documents/Desktop/PPT/NaiveBayes/adult.names",
+				"/E/Academic/Notes/report20200522/report20200522.tex",
+				"/E/Academic/Notes/report20200612/report20200612.tex",
+				"/D/mcmas-ldlk-complete/Three-player Collaborative PRS.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.083.1767/HZ$D.083.1768/MCMAS-SLK/utilities/modal_formula.cc",
+				"/D/mcmas-ldlk-complete/main.cc",
+				"/D/mcmas-ldlk-complete/parser/syntaxcheck.cc",
+				"/D/mcmas-ldlk-complete/utilities/modal_formula.cc",
+				"/D/mcmas-ldlk-complete/utilities/model_checking.cc",
+				"/E/Academic/Notes/OldNotes/PrintFormula.tex",
+				"/D/mcmas-ldlk-complete/parser/nssis_new.yy",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.225.1793/HZ$D.225.1794/mcmas-ldlk/parser/nssis_new.yy",
+				"/D/mcmas-ldlk-complete/utilities/read_options.cc",
+				"/D/mcmas-ldlk-complete/parser/nssis.ll",
+				"/E/Academic/Notes/JAADL_Model_Checking.cpp",
+				"/D/Documents/Desktop/ldl_formula.cpp",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.121.650/HZ$D.121.651/mcmas-ldlk/include/types.hh",
+				"/E/Academic/Papers/IJCAI20202020/IJCAI2020_submission/ijcai20_submission.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.494.2644/HZ$D.494.2645/mcmas-ldlk/parser/nssis_new.yy",
+				"/D/mcmas_jaadl/parser/nssis_new - 副本.yy",
+				"/E/Academic/Notes/PrintFormula/report20200612.tex",
+				"/D/mcmas-ldlk-complete/Makefile",
+				"/D/Documents/MATLAB/horse-colic.data",
+				"/D/Documents/MATLAB/horse-colic.names",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/qlearning.py",
+				"/D/mcmas-1.3.0/parser/mcmas-driver.cc",
+				"/D/mcmas-ldlk/Makefile",
+				"/D/mcmas-ldlk-complete/include/atlk.hh",
+				"/D/mcmas-ldlk-complete/include/types.hh",
+				"/D/mcmas-ldlk-complete/include/utilities.hh",
+				"/D/mcmas-ldlk-complete/include/ldlf.hh",
+				"/D/mcmas-ldlk-complete/utilities/ltlk.cc",
+				"/D/mcmas-ldlk-complete/test/expensive/cdl_star_nested_path_quantifiers.ispl",
+				"/D/mcmas-ldlk-complete/parser/mcmas-driver.cc",
+				"/D/mcmas-ldlk-complete/utilities/atlk.cc",
+				"/D/mcmas-ldlk/parser/nssis.yy",
+				"/D/mcmas-1.3.0/parser/nssis_new.yy",
+				"/D/mcmas-1.3.0/parser/nssis.ll",
+				"/E/Academic/Documents/mcmas-ldlk/parser/nssis.hh",
+				"/D/mcmas-ldlk/parser/nssis.ll",
+				"/D/mcmas-1.3.0/parser/syntaxcheck.cc",
+				"/D/mcmas-ldlk/main.cc",
+				"/D/mcmas-1.3.0/main.cc",
+				"/D/mcmas-ldlk/include/mcmas-driver.hh",
+				"/D/mcmas-ldlk/include/ldlf.hh",
+				"/D/mcmas-ldlk/parser/mcmas-driver.cc",
+				"/E/Academic/Notes/CTLModelChecking.cpp",
+				"/D/Documents/Desktop/E14_20181207_RL/E14_RL.tex",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/E12_EM.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.964.1817/HZ$D.964.1818/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/IJCAI2020/aaai20_20191105.tex",
+				"/E/Academic/Papers/IJCAI2020_20200115/ijcai20.tex",
+				"/E/Academic/Papers/IJCAI2020/ijcai20.tex",
+				"/E/Academic/Papers/IJCAI2020/ATL-JCAN-new.bib",
+				"/E/Academic/Papers/FormattingGuidelines-IJCAI-PRICAI-20/ijcai20.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20_20190906.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.867.770/HZ$D.867.771/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/IJCAI2020_20200115/aaai20_20191105.tex",
+				"/E/Academic/Papers/IJCAI2020/ijcai20.bbl",
+				"/D/Documents/Desktop/E14_RL/E14_RL.tex",
+				"/D/Documents/Desktop/E01_Maze/E01_Maze.tex",
+				"/D/Documents/Desktop/E15_20181214_DL/E15_DL.tex",
+				"/D/Documents/Desktop/maze.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.112.2584/HZ$D.112.2586/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.133.153/HZ$D.133.154/Note20200102/Note20200102.tex",
+				"/E/Academic/Papers/FormattingGuidelines-IJCAI-PRICAI-20/ijcai20.bib",
+				"/D/Documents/MATLAB/horse-colic.test",
 				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.195.915/HZ$D.195.916/mcmas-ldlk/README",
-				"/E/Documents/AIcourse201801/打包发给老师的/Project/P03/P03_Planning_and_Uncertainty.tex",
-				"/E/Academic/Documents/PreviousNotes/Note20181128/Note20181128.tex",
-				"/D/Documents/Desktop/20181220/20181220/Eager.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.094.745/HZ$D.094.746/grab/manifest.json",
-				"/D/Documents/Desktop/style.css",
-				"/D/Projects/Data/test2.py",
-				"/D/Projects/Data/test.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.063.3785/HZ$D.063.3786/Note-xiong/Note20190118.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.340.2863/HZ$D.340.2865/Note-xiong/Note20190118.tex",
-				"/E/Academic/Documents/PreviousNotes/Note/Note.tex",
-				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
-				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
-				"/F/Books/awesome-fantasy/contributing.md",
-				"/F/Books/awesome-fantasy/README.md",
-				"/D/Projects/test.md",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
-				"/E/Zotero/locate/engines.json",
-				"/D/Softwares/Anaconda3/etc/jupyter/jupyter_notebook_config.json",
-				"/D/Documents/Downloads/review guidelines.tex",
-				"/D/Documents/Downloads/review-form.tex",
-				"/E/Academic/Presentations/report20160906/Report 160906.tex",
-				"/E/Academic/Documents/review-form.tex",
-				"/E/Academic/Researches/Notes/Keys.tex",
-				"/D/Documents/Downloads/Computational Complexity of Games and Puzzles.tex",
-				"/D/Documents/Downloads/Chomp - Wikipedia.tex",
-				"/E/Academic/Researches/Notes/Note.tex",
-				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/E16_DQL.tex",
-				"/E/Academic/Notes/Test/tikz/Reading_Template.tex",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/texpower/automata.sty",
-				"/D/Documents/Tencent Files/24747380/FileRecv/Note-zhaoshuai/Note20190102.tex"
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/Documents/Desktop/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.074/HZ$D.917.075/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/D/Documents/Desktop/modified_AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/D/Documents/Desktop/AAAI-LiuS.3364/AAAI-LiuS.3364.tex",
+				"/D/Documents/Desktop/modified_AAAI-LiJ.8202/AAAI-LiJ.8202.bbl",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/D/Documents/Desktop/新建文件夹/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20_after_review.tex",
+				"/E/Academic/Presentations/report20191121/report20191121.tex",
+				"/E/Academic/Presentations/report20191011/report20191011.tex",
+				"/E/Academic/Papers/AAAI2020_20191105/aaai20_after_review.tex",
+				"/E/Academic/Notes/Reduction.tex",
+				"/E/Documents/KRR/T03Solution/T03_Solution.tex",
+				"/E/Academic/Presentations/report20191216/report20191216.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.518.4516/HZ$D.518.4518/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
+				"/E/Documents/KRR/T03Solution/document.tex",
+				"/D/Documents/Desktop/ecai-review-form.tex",
+				"/E/Academic/Presentations/report20191205/report20191205.toc",
+				"/E/Documents/AIcourse201901/E16_20181221_DQL/E16_DQL.tex",
+				"/D/Documents/Desktop/Abstract.txt",
+				"/E/Academic/Notes/commitments.tex",
+				"/D/Documents/Desktop/test.py",
+				"/D/Documents/Desktop/121",
+				"/E/Academic/Presentations/report20191122/report20191122.tex",
+				"/E/Documents/AIcourse201801/Exercise/E11_20181116_DT/adult.test",
+				"/E/Academic/Presentations/report20191122/abstract.txt",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.425.4283/HZ$D.425.4286/E10_20191113_VE/ve.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.833.2451/HZ$D.833.2453/P03_16337221_16337223/cube_domain.pddl",
+				"/E/Academic/Papers/Rebuttal_liuzhaoshuai.txt",
+				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
+				"/D/Documents/Desktop/Export2222ed Items.bib",
+				"/D/DESKTOP_TEMP/LDL.txt",
+				"/D/Documents/Desktop/cube1.pddl",
+				"/D/Documents/Desktop/cube_domain.pddl",
+				"/D/Documents/Desktop/domain.pddl",
+				"/D/Documents/Desktop/4d Items.bib",
+				"/D/Documents/Desktop/3.bib",
+				"/D/Documents/Desktop/2s.bib",
+				"/D/Documents/Desktop/1s.bib",
+				"/D/Documents/Desktop/123s.bib",
+				"/D/Documents/Desktop/Expor2ted Items.bib",
+				"/D/Documents/Desktop/Exported Items.bib",
+				"/D/Documents/Downloads/MCMAS-SLK/README",
+				"/D/Documents/Downloads/MCMAS-SLK/utilities/assignment.cc",
+				"/D/Documents/Downloads/MCMAS-SLK/utilities/strategy_logic.cc",
+				"/D/Documents/Downloads/MCMAS-SLK/include/strategy_logic.hh",
+				"/D/Documents/Downloads/MCMAS-SLK/main.cc",
+				"/E/Documents/AIcourse201801/Exercise/E08_20181026_BN/burglary.py",
+				"/E/Documents/AIcourse201801/Exercise/E08_20181026_BN/E08_BN.tex",
+				"/E/Documents/AIcourse201801/Exercise/E09_20181102_VE/ve.py",
+				"/E/Documents/AIcourse201701/AI201701/Projects/P03/P03_Solutions/1_Boxman Game/boxman_domain.pddl",
+				"/E/Academic/Notes/Note.tex",
+				"/E/Documents/AIcourse201801/Exercise/E07_20181019_FF/Solutions/blocks/domain_blocks.pddl"
 			],
 			"find":
 			{
-				"height": 55.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -416,73 +432,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"StrS",
-					"\\mid",
-					"Osborne",
-					"OsborneR99",
-					"alternating-time temp",
-					"labelling",
-					"ADL$_{jcan}^*$",
-					"cancel",
-					"\\xcancel",
-					"\\bcancel",
-					"cancel",
-					"labelling",
-					"ADL$_{JCAN}$",
-					"ADL$_{jcan}^*$",
-					"upper",
-					"example",
-					"figure",
-					"\\em",
-					"eg",
-					"out(w,(\\sigma_A,\\sigma_{-A}))",
-					"\\mathcal G,w",
-					"ATL",
-					"[A]_\\infty^\\psi",
-					"[A]^\\psi",
-					"\\lsem A\\rsem_\\infty",
-					"\\llangle A\\rrangle_k",
-					"\\llangle A\\rrangle_{k+1}",
-					"\\lsem A\\rsem_{k+1}",
-					"\\lsem A\\rsem_k",
-					"[A]_k^\\psi",
-					"end{pf}",
-					"begin{pf}",
-					"G_g",
-					"\\vDash",
-					"thero",
-					"theroem",
-					"definition",
-					"df",
-					"section",
-					"A,\\psi,s)",
-					"(0,A,\\psi,s)",
-					"G",
-					"NE,(\\psi_1,\\cdots,\\psi_{|Agt|})",
-					"k,\\psi",
-					"N,(\\psi_1,\\cdots,\\psi_{|Agt|})",
-					"k,\\psi",
-					"G",
-					"rrangle",
-					"\\llangle",
-					"block",
-					"s.t.",
-					"prop",
-					"\\lceil",
-					"itemize",
 					"enumerate",
-					"itemize",
-					"block",
-					"color",
-					"df",
-					"\\triangle",
-					"there",
-					"overline",
-					"block",
-					"df",
-					"block",
-					"Finite Traces",
-					"finite traces"
+					"Deep Lear",
+					"vprot",
+					"    ",
+					"protocol",
+					"itera",
+					"set",
+					"ldlformu",
+					"ldlform",
+					"jaadlmodality",
+					"ldlmodality",
+					"jaadlmodality",
+					"global",
+					"seg",
+					"segme",
+					"atlpre",
+					"string_table",
+					"atlpre",
+					"op",
+					"cex_prefix",
+					"sigaction",
+					"timeb",
+					"nobddca",
+					"option",
+					"bddcache",
+					"in the ",
+					"done",
+					"ltl",
+					"LTL",
+					"atlpre",
+					"LDLPRE",
+					"jaadlformula",
+					"LT",
+					"ALT",
+					"atlpre",
+					"atlprefix",
+					"formula",
+					"jaadlformula",
+					"ldlformula",
+					"JAADLPRE",
+					"pathformula",
+					"jaadl",
+					"ldl",
+					"ldlform",
+					"LDLPRE",
+					"60",
+					"LDLPRE",
+					"ldl",
+					"atlprefix",
+					"jaadl",
+					"ldlfor",
+					"atlprefix",
+					"LDL",
+					"ldlpre",
+					"ldl",
+					"AG",
+					"G path",
+					"ctlsformula",
+					"formula",
+					"untilprefix",
+					"atlpre",
+					"untilprefix",
+					"atlpre",
+					"terminal",
+					"ldlformula",
+					"ctlsformula",
+					"terminalformula",
+					"ctl",
+					"ldlfor",
+					"jaadl",
+					"ldlformula",
+					"LT",
+					"ldlfor",
+					"pathform",
+					"ctlsformula",
+					"path",
+					"pathformula",
+					"formula",
+					"<",
+					"AND",
+					"pathformula",
+					"IE",
+					"US",
+					"_",
+					"state",
+					"path",
+					"do_mode",
+					"lex.yy",
+					"LDL_",
+					"LDL",
+					"syntax",
+					"syntax e",
+					"atlpre",
+					"ltlfo",
+					"ctlsformula",
+					"LB",
+					"atlpref",
+					"LB",
+					"<",
+					"^",
+					"atlprefix",
+					"ATLsemantics",
+					"termina",
+					"ENVIRONMENT",
+					"FORMULAE",
+					"END",
+					"FORMU",
+					"formu",
+					"301",
+					"FORM",
+					"formul",
+					"formula",
+					"Formu",
+					"formu",
+					"agents",
+					"atlprefix",
+					"string_table",
+					"atlpre",
+					"atomic_proposition",
+					"atlpre",
+					"ID",
+					"atlprefix",
+					"is_groups",
+					"string_table",
+					"ID",
+					"atlprefix",
+					"formula",
+					"atlprefix"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -490,31 +567,8 @@
 				"regex": false,
 				"replace_history":
 				[
-					"R",
-					"labeling",
-					"JADL",
-					"\\cancel",
-					"\\xcancel",
-					"labeling",
-					"JADL",
-					"out(s,(\\sigma_A,\\sigma_{-A}))",
-					"\\mathcal G,s",
-					"[A]^\\infty_\\psi",
-					"[A]_\\psi",
-					"\\lsem A\\rsem^\\infty",
-					"\\llangle A\\rrangle^k",
-					"\\llangle A\\rrangle^{k+1}",
-					"\\lsem A\\rsem^{k+1}",
-					"\\lsem A\\rsem^k",
-					"[A]^k_\\psi",
-					"end{proof}",
-					"begin{proof}",
-					"G",
-					"\\models",
-					"\\lsem",
-					"such that",
-					"\\upharpoonright",
-					"\\triangleq"
+					"",
+					"\\red"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -524,7 +578,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 52.0
+				"height": 36.0
 			},
 			"input":
 			{
@@ -554,7 +608,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 102.0
+				"height": 88.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -584,7 +638,7 @@
 				],
 				"width": 0.0
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -594,7 +648,7 @@
 			{
 			}
 		},
-		"new_window_width": 931.0
+		"new_window_width": 804.0
 	},
 	"windows":
 	[
@@ -603,6 +657,22 @@
 			{
 				"selected_items":
 				[
+					[
+						"For",
+						"ForAll{condition}{forall-block}\talgorithm2e"
+					],
+					[
+						"include",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
+						"includ",
+						"includegraphics[options]{name}\tlatex-document"
+					],
+					[
+						"emt",
+						"emptyset\tlatex-mathsymbols"
+					],
 					[
 						"parbox",
 						"parbox{width}{text}\tlatex-document"
@@ -664,16 +734,69 @@
 			"buffers":
 			[
 				{
-					"file": "/E/Academic/Notes/Note.tex",
+					"file": "/E/Academic/Notes/JAADL_Model_Checking.cpp",
 					"settings":
 					{
-						"buffer_size": 10578,
+						"buffer_size": 6294,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/mcmas-ldlk-complete/main.cc",
+					"settings":
+					{
+						"buffer_size": 21340,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Documents/Desktop/PPT/NaiveBayes/NaiveBayes.tex",
+					"settings":
+					{
+						"buffer_size": 7472,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Documents/Desktop/PPT/DecisionTree/DecisionTree.tex",
+					"settings":
+					{
+						"buffer_size": 8665,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Documents/AIcourse201901/E05_20180930_Family/E05_Family.tex",
+					"settings":
+					{
+						"buffer_size": 4844,
+						"encoding": "UTF-8 with BOM",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Documents/AIcourse201901/E02_20180914_15puzzle/E02_15puzzle.tex",
+					"settings":
+					{
+						"buffer_size": 3065,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Documents/Desktop/PPT/Overview/overview.tex",
+					"settings":
+					{
+						"buffer_size": 7865,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -785,7 +908,7 @@
 					],
 					[
 						"Packages/LaTeXTools/LaTeX.sublime-build",
-						"Traditional"
+						"PdfLaTeX"
 					]
 				],
 				[
@@ -857,7 +980,7 @@
 			},
 			"console":
 			{
-				"height": 171.0,
+				"height": 296.0,
 				"history":
 				[
 				]
@@ -873,138 +996,138 @@
 			},
 			"file_history":
 			[
-				"/E/Academic/Papers/AAAI2020/aaai20_20190906.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.364.1034/HZ$D.364.1035/E03_20190911_Othello/Heuristic Function for Reversi (Othello).cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.991.344/HZ$D.991.346/Heuristic Function for Reversi (Othello).cpp",
-				"/D/Documents/Tencent Files/24747380/FileRecv/Othello_revised.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.364.1034/HZ$D.364.1036/E03_20190911_Othello/Othello.cpp",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.991.344/HZ$D.991.345/Othello.cpp",
-				"/E/Documents/AIcourse201701/Theory/T01/templet_en.tex",
-				"/E/Documents/AIcourse201801/Theory/T01_Search/template_en.tex",
-				"/E/Documents/AIcourse201801/Theory/T02_CSP_KRR/template_en.tex",
-				"/E/Academic/Notes/Note20190426.tex",
-				"/E/Papers/LiuLab.bib",
-				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-09/template_en(1).tex",
-				"/D/Documents/Tencent Files/24747380/FileRecv/ATL-JCAN-new.bib",
-				"/E/Academic/Papers/AAAI2020/aaai20.tex",
-				"/E/Academic/Papers/AAAI2020/aaai20_20190905.tex",
-				"/D/DESKTOP_TEMP/ADL-jointability_AAAI-2020.tex",
-				"/E/Academic/Graph/DrawGraph.tex",
+				"/D/Documents/Desktop/PPT/Prolog/Prolog.tex",
+				"/D/Documents/Desktop/PPT/15Puzzle/15Puzzle.tex",
 				"/E/Documents/AIcourse201901/E07_20181019_FF/E07_FF.tex",
-				"/E/Documents/AIcourse201901/E01_20190829_Maze/E01_Maze.tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020.tex",
-				"/D/Documents/Desktop/jcan(6)(2).tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020 - 副本.tex",
-				"/D/Documents/Desktop/jcan(4).tex",
-				"/D/Documents/Desktop/ADL-jointability_AAAI-2020(1).tex",
-				"/E/Documents/AIcourse201901/E01_20190829_Maze/Overview/Overview/overview.tex",
+				"/D/Documents/Desktop/PPT/FF/FF.tex",
+				"/E/Documents/AIcourse201901/E11_20181116_DT/E11_DT.tex",
+				"/D/Documents/Desktop/PPT/DeepLearning/DeepLearning.tex",
+				"/E/Academic/Presentations/report20191205/report20191205.tex",
+				"/D/Documents/Desktop/PPT/NaiveBayes/E10_NB.tex",
 				"/E/Documents/AIcourse201901/E12_20181123_EM/E12_EM.tex",
-				"/E/Documents/AICourse201901/Help.tex",
-				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview.tex",
-				"/E/Documents/AIcourse201901/E01_20180907_Maze/Overview/Overview/overview.tex",
-				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190821.tex",
-				"/E/Academic/Papers/AAAI20_20190819/aaai20_20190819.tex",
-				"/E/Academic/Papers/AAAI2020-joint-ability -2019819/jcan20190728.tex",
-				"/E/Academic/Papers/AAAI2020/aaai2020.tex",
-				"/E/Academic/Papers/AAAI2020-joint-ability -2019728/jcan20190728.tex",
-				"/E/Academic/Papers/AuthorKit20(1)/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
-				"/E/Academic/Papers/AAAI2020/aaai.bst",
-				"/E/Academic/Papers/AAAI2020/aaai2020.bbl",
-				"/E/Academic/Papers/AAAI2020/jcan20190718.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6)(3).tex",
-				"/D/DESKTOP_TEMP/response(2).tex",
-				"/D/Documents/Desktop/ATL-JCAN-new.tex",
-				"/E/Academic/Papers/AAAI2020/jcan.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6).tex",
-				"/E/Academic/Papers/AAAI2020/jcan(6).bbl",
-				"/E/Academic/Notes/Note.tex",
-				"/E/Academic/Presentations/20190706summer_camp/atl.tex",
-				"/D/Documents/Desktop/jcan(1)(1)(1)(1).tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(4).tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-07/jcan(3).tex",
-				"/E/Academic/Notes/Note20190628.tex",
-				"/E/Academic/Notes/ATL-JCAN-new.tex",
-				"/E/Academic/Papers/AAAI2020/liu_aaai20.tex",
-				"/E/Academic/Papers/AAAI2020/jcan(1)(1).tex",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
-				"/d/Softwares/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty",
-				"/E/Academic/Papers/AAAI2020/aaai19.sty",
-				"/E/Academic/Papers/AAAI2020/aaai.sty",
-				"/E/Academic/Notes/report20190621/report20190621.tex",
-				"/E/Academic/Notes/Keys.tex",
-				"/E/Academic/Notes/report20190513/report20190513.tex",
-				"/E/Academic/Notes/Note20190530.tex",
-				"/E/Academic/Notes/examples.tex",
-				"/E/Academic/Notes/Note20190606.tex",
-				"/E/Academic/Notes/Properties.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.453.1306/HZ$D.453.1307/examples.tex",
-				"/E/Academic/Notes/DrawGraph.tex",
-				"/E/Academic/Notes/Note20190419.tex",
-				"/E/Academic/Notes/Note20190524.tex",
-				"/E/Academic/Notes/Note20190517.tex",
-				"/D/Documents/WeChat Files/liuzhaoshuai1990/FileStorage/File/2019-05/1.pddl",
-				"/E/Academic/Notes/report20190510/report20190510.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.306.4269/HZ$D.306.4270/MCMAS-SLK/examples/scheduler5.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.895.926/HZ$D.895.927/ECNUbeamer.tex",
-				"/E/Academic/Presentations/report20160919/section2.tex",
-				"/E/Academic/Presentations/report20160919/presentation.tex",
-				"/D/Documents/Desktop/Abstract.txt",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3841/MCMAS-SLK/examples/scheduler5.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3840/MCMAS-SLK/examples/rock_paper_scissors_complex.ispl",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.627.3837/HZ$D.627.3839/MCMAS-SLK/README",
-				"/E/Academic/Notes/report20190505/report20190505.tex",
-				"/E/Academic/Notes/report20190415/report20190415.tex",
-				"/E/Academic/Notes/report20190415/report20190415.bbl",
-				"/D/Documents/Downloads/latexthesistemplate-2016-05-08/latexthesistemplate/LaTeXTemplate.tex",
-				"/E/Academic/Presentations/report20180404/report20180404.tex",
-				"/E/Academic/Notes/Note20190404.tex",
-				"/E/Academic/Notes/report20190415/report20190415.toc",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXYZ/LaTeXYZ.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXYZ.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_input_completions.py",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latex_cite_completions.py",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/latexCommand.py",
-				"/E/Academic/Notes/Note20190404.bbl",
-				"/E/Academic/Notes/Note20190404.log",
-				"/E/Academic/mcmas-ldlk/test/google_car.ispl",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/Documents/Desktop/PPT/EM/EM.tex",
+				"/D/Documents/Desktop/PPT/DeepLearning/E15_DL.tex",
+				"/D/Documents/Desktop/PPT/NaiveBayes/adult.names",
+				"/E/Academic/Notes/report20200522/report20200522.tex",
+				"/E/Academic/Notes/report20200612/report20200612.tex",
+				"/D/mcmas-ldlk-complete/Three-player Collaborative PRS.ispl",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.083.1767/HZ$D.083.1768/MCMAS-SLK/utilities/modal_formula.cc",
+				"/D/mcmas-ldlk-complete/main.cc",
+				"/D/mcmas-ldlk-complete/parser/syntaxcheck.cc",
+				"/D/mcmas-ldlk-complete/utilities/modal_formula.cc",
+				"/D/mcmas-ldlk-complete/utilities/model_checking.cc",
+				"/E/Academic/Notes/OldNotes/PrintFormula.tex",
+				"/D/mcmas-ldlk-complete/parser/nssis_new.yy",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.225.1793/HZ$D.225.1794/mcmas-ldlk/parser/nssis_new.yy",
+				"/D/mcmas-ldlk-complete/utilities/read_options.cc",
+				"/D/mcmas-ldlk-complete/parser/nssis.ll",
+				"/E/Academic/Notes/JAADL_Model_Checking.cpp",
+				"/D/Documents/Desktop/ldl_formula.cpp",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.121.650/HZ$D.121.651/mcmas-ldlk/include/types.hh",
+				"/E/Academic/Papers/IJCAI20202020/IJCAI2020_submission/ijcai20_submission.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.494.2644/HZ$D.494.2645/mcmas-ldlk/parser/nssis_new.yy",
+				"/D/mcmas_jaadl/parser/nssis_new - 副本.yy",
+				"/E/Academic/Notes/PrintFormula/report20200612.tex",
+				"/D/mcmas-ldlk-complete/Makefile",
+				"/D/Documents/MATLAB/horse-colic.data",
+				"/D/Documents/MATLAB/horse-colic.names",
+				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/qlearning.py",
+				"/D/mcmas-1.3.0/parser/mcmas-driver.cc",
+				"/D/mcmas-ldlk/Makefile",
+				"/D/mcmas-ldlk-complete/include/atlk.hh",
+				"/D/mcmas-ldlk-complete/include/types.hh",
+				"/D/mcmas-ldlk-complete/include/utilities.hh",
+				"/D/mcmas-ldlk-complete/include/ldlf.hh",
+				"/D/mcmas-ldlk-complete/utilities/ltlk.cc",
+				"/D/mcmas-ldlk-complete/test/expensive/cdl_star_nested_path_quantifiers.ispl",
+				"/D/mcmas-ldlk-complete/parser/mcmas-driver.cc",
+				"/D/mcmas-ldlk-complete/utilities/atlk.cc",
+				"/D/mcmas-ldlk/parser/nssis.yy",
+				"/D/mcmas-1.3.0/parser/nssis_new.yy",
+				"/D/mcmas-1.3.0/parser/nssis.ll",
+				"/E/Academic/Documents/mcmas-ldlk/parser/nssis.hh",
+				"/D/mcmas-ldlk/parser/nssis.ll",
+				"/D/mcmas-1.3.0/parser/syntaxcheck.cc",
+				"/D/mcmas-ldlk/main.cc",
+				"/D/mcmas-1.3.0/main.cc",
+				"/D/mcmas-ldlk/include/mcmas-driver.hh",
+				"/D/mcmas-ldlk/include/ldlf.hh",
+				"/D/mcmas-ldlk/parser/mcmas-driver.cc",
+				"/E/Academic/Notes/CTLModelChecking.cpp",
+				"/D/Documents/Desktop/E14_20181207_RL/E14_RL.tex",
+				"/E/Documents/AIcourse201801/Exercise/E12_20181123_EM/E12_EM.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.964.1817/HZ$D.964.1818/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/IJCAI2020/aaai20_20191105.tex",
+				"/E/Academic/Papers/IJCAI2020_20200115/ijcai20.tex",
+				"/E/Academic/Papers/IJCAI2020/ijcai20.tex",
+				"/E/Academic/Papers/IJCAI2020/ATL-JCAN-new.bib",
+				"/E/Academic/Papers/FormattingGuidelines-IJCAI-PRICAI-20/ijcai20.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20_20190906.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.867.770/HZ$D.867.771/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/IJCAI2020_20200115/aaai20_20191105.tex",
+				"/E/Academic/Papers/IJCAI2020/ijcai20.bbl",
+				"/D/Documents/Desktop/E14_RL/E14_RL.tex",
+				"/D/Documents/Desktop/E01_Maze/E01_Maze.tex",
+				"/D/Documents/Desktop/E15_20181214_DL/E15_DL.tex",
+				"/D/Documents/Desktop/maze.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.112.2584/HZ$D.112.2586/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.133.153/HZ$D.133.154/Note20200102/Note20200102.tex",
+				"/E/Academic/Papers/FormattingGuidelines-IJCAI-PRICAI-20/ijcai20.bib",
+				"/D/Documents/MATLAB/horse-colic.test",
 				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.195.915/HZ$D.195.916/mcmas-ldlk/README",
-				"/E/Documents/AIcourse201801/打包发给老师的/Project/P03/P03_Planning_and_Uncertainty.tex",
-				"/E/Academic/Documents/PreviousNotes/Note20181128/Note20181128.tex",
-				"/D/Documents/Desktop/20181220/20181220/Eager.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.094.745/HZ$D.094.746/grab/manifest.json",
-				"/D/Documents/Desktop/style.css",
-				"/D/Projects/Data/test2.py",
-				"/D/Projects/Data/test.py",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.063.3785/HZ$D.063.3786/Note-xiong/Note20190118.tex",
-				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.340.2863/HZ$D.340.2865/Note-xiong/Note20190118.tex",
-				"/E/Academic/Documents/PreviousNotes/Note/Note.tex",
-				"/C/Users/Zhaoshuai/.ssh/id_rsa.pub",
-				"/C/Users/Zhaoshuai/AppData/Local/Atlassian/SourceTree/accounts.json",
-				"/F/Books/awesome-fantasy/contributing.md",
-				"/F/Books/awesome-fantasy/README.md",
-				"/D/Projects/test.md",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/bot.py",
-				"/E/Documents/AIcourse201801/Exercise/E14_20181207_RL/flappybird/flappy.py",
-				"/E/Zotero/locate/engines.json",
-				"/D/Softwares/Anaconda3/etc/jupyter/jupyter_notebook_config.json",
-				"/D/Documents/Downloads/review guidelines.tex",
-				"/D/Documents/Downloads/review-form.tex",
-				"/E/Academic/Presentations/report20160906/Report 160906.tex",
-				"/E/Academic/Documents/review-form.tex",
-				"/E/Academic/Researches/Notes/Keys.tex",
-				"/D/Documents/Downloads/Computational Complexity of Games and Puzzles.tex",
-				"/D/Documents/Downloads/Chomp - Wikipedia.tex",
-				"/E/Academic/Researches/Notes/Note.tex",
-				"/E/Documents/AIcourse201801/Exercise/E16_20181221_DQL/E16_DQL.tex",
-				"/E/Academic/Notes/Test/tikz/Reading_Template.tex"
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/D/Documents/Desktop/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.917.074/HZ$D.917.075/AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/D/Documents/Desktop/modified_AAAI-LiJ.8202/AAAI-LiJ.8202.tex",
+				"/D/Documents/Desktop/AAAI-LiuS.3364/AAAI-LiuS.3364.tex",
+				"/D/Documents/Desktop/modified_AAAI-LiJ.8202/AAAI-LiJ.8202.bbl",
+				"/C/Users/Zhaoshuai/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+				"/D/Documents/Desktop/新建文件夹/AAAI-LiJ.8202.tex",
+				"/E/Academic/Papers/AAAI2020/aaai20_after_review.tex",
+				"/E/Academic/Presentations/report20191121/report20191121.tex",
+				"/E/Academic/Presentations/report20191011/report20191011.tex",
+				"/E/Academic/Papers/AAAI2020_20191105/aaai20_after_review.tex",
+				"/E/Academic/Notes/Reduction.tex",
+				"/E/Documents/KRR/T03Solution/T03_Solution.tex",
+				"/E/Academic/Presentations/report20191216/report20191216.tex",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.518.4516/HZ$D.518.4518/AuthorKit20/LaTeX/formatting-instructions-latex-2020.tex",
+				"/E/Documents/KRR/T03Solution/document.tex",
+				"/D/Documents/Desktop/ecai-review-form.tex",
+				"/E/Academic/Presentations/report20191205/report20191205.toc",
+				"/E/Documents/AIcourse201901/E16_20181221_DQL/E16_DQL.tex",
+				"/D/Documents/Desktop/Abstract.txt",
+				"/E/Academic/Notes/commitments.tex",
+				"/D/Documents/Desktop/test.py",
+				"/D/Documents/Desktop/121",
+				"/E/Academic/Presentations/report20191122/report20191122.tex",
+				"/E/Documents/AIcourse201801/Exercise/E11_20181116_DT/adult.test",
+				"/E/Academic/Presentations/report20191122/abstract.txt",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.425.4283/HZ$D.425.4286/E10_20191113_VE/ve.py",
+				"/C/Users/Zhaoshuai/AppData/Local/Temp/HZ$D.833.2451/HZ$D.833.2453/P03_16337221_16337223/cube_domain.pddl",
+				"/E/Academic/Papers/Rebuttal_liuzhaoshuai.txt",
+				"/E/Academic/Papers/AAAI2020/ATL-JCAN-new.bib",
+				"/D/Documents/Desktop/Export2222ed Items.bib",
+				"/D/DESKTOP_TEMP/LDL.txt",
+				"/D/Documents/Desktop/cube1.pddl",
+				"/D/Documents/Desktop/cube_domain.pddl",
+				"/D/Documents/Desktop/domain.pddl",
+				"/D/Documents/Desktop/4d Items.bib",
+				"/D/Documents/Desktop/3.bib",
+				"/D/Documents/Desktop/2s.bib",
+				"/D/Documents/Desktop/1s.bib",
+				"/D/Documents/Desktop/123s.bib",
+				"/D/Documents/Desktop/Expor2ted Items.bib",
+				"/D/Documents/Desktop/Exported Items.bib",
+				"/D/Documents/Downloads/MCMAS-SLK/README",
+				"/D/Documents/Downloads/MCMAS-SLK/utilities/assignment.cc",
+				"/D/Documents/Downloads/MCMAS-SLK/utilities/strategy_logic.cc",
+				"/D/Documents/Downloads/MCMAS-SLK/include/strategy_logic.hh",
+				"/D/Documents/Downloads/MCMAS-SLK/main.cc",
+				"/E/Documents/AIcourse201801/Exercise/E08_20181026_BN/burglary.py"
 			],
 			"find":
 			{
-				"height": 55.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -1018,73 +1141,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"StrS",
-					"\\mid",
-					"Osborne",
-					"OsborneR99",
-					"alternating-time temp",
-					"labelling",
-					"ADL$_{jcan}^*$",
-					"cancel",
-					"\\xcancel",
-					"\\bcancel",
-					"cancel",
-					"labelling",
-					"ADL$_{JCAN}$",
-					"ADL$_{jcan}^*$",
-					"upper",
-					"example",
-					"figure",
-					"\\em",
-					"eg",
-					"out(w,(\\sigma_A,\\sigma_{-A}))",
-					"\\mathcal G,w",
-					"ATL",
-					"[A]_\\infty^\\psi",
-					"[A]^\\psi",
-					"\\lsem A\\rsem_\\infty",
-					"\\llangle A\\rrangle_k",
-					"\\llangle A\\rrangle_{k+1}",
-					"\\lsem A\\rsem_{k+1}",
-					"\\lsem A\\rsem_k",
-					"[A]_k^\\psi",
-					"end{pf}",
-					"begin{pf}",
-					"G_g",
-					"\\vDash",
-					"thero",
-					"theroem",
-					"definition",
-					"df",
-					"section",
-					"A,\\psi,s)",
-					"(0,A,\\psi,s)",
-					"G",
-					"NE,(\\psi_1,\\cdots,\\psi_{|Agt|})",
-					"k,\\psi",
-					"N,(\\psi_1,\\cdots,\\psi_{|Agt|})",
-					"k,\\psi",
-					"G",
-					"rrangle",
-					"\\llangle",
-					"block",
-					"s.t.",
-					"prop",
-					"\\lceil",
-					"itemize",
 					"enumerate",
-					"itemize",
-					"block",
-					"color",
-					"df",
-					"\\triangle",
-					"there",
-					"overline",
-					"block",
-					"df",
-					"block",
-					"Finite Traces",
-					"finite traces"
+					"Deep Lear",
+					"vprot",
+					"    ",
+					"protocol",
+					"itera",
+					"set",
+					"ldlformu",
+					"ldlform",
+					"jaadlmodality",
+					"ldlmodality",
+					"jaadlmodality",
+					"global",
+					"seg",
+					"segme",
+					"atlpre",
+					"string_table",
+					"atlpre",
+					"op",
+					"cex_prefix",
+					"sigaction",
+					"timeb",
+					"nobddca",
+					"option",
+					"bddcache",
+					"in the ",
+					"done",
+					"ltl",
+					"LTL",
+					"atlpre",
+					"LDLPRE",
+					"jaadlformula",
+					"LT",
+					"ALT",
+					"atlpre",
+					"atlprefix",
+					"formula",
+					"jaadlformula",
+					"ldlformula",
+					"JAADLPRE",
+					"pathformula",
+					"jaadl",
+					"ldl",
+					"ldlform",
+					"LDLPRE",
+					"60",
+					"LDLPRE",
+					"ldl",
+					"atlprefix",
+					"jaadl",
+					"ldlfor",
+					"atlprefix",
+					"LDL",
+					"ldlpre",
+					"ldl",
+					"AG",
+					"G path",
+					"ctlsformula",
+					"formula",
+					"untilprefix",
+					"atlpre",
+					"untilprefix",
+					"atlpre",
+					"terminal",
+					"ldlformula",
+					"ctlsformula",
+					"terminalformula",
+					"ctl",
+					"ldlfor",
+					"jaadl",
+					"ldlformula",
+					"LT",
+					"ldlfor",
+					"pathform",
+					"ctlsformula",
+					"path",
+					"pathformula",
+					"formula",
+					"<",
+					"AND",
+					"pathformula",
+					"IE",
+					"US",
+					"_",
+					"state",
+					"path",
+					"do_mode",
+					"lex.yy",
+					"LDL_",
+					"LDL",
+					"syntax",
+					"syntax e",
+					"atlpre",
+					"ltlfo",
+					"ctlsformula",
+					"LB",
+					"atlpref",
+					"LB",
+					"<",
+					"^",
+					"atlprefix",
+					"ATLsemantics",
+					"termina",
+					"ENVIRONMENT",
+					"FORMULAE",
+					"END",
+					"FORMU",
+					"formu",
+					"301",
+					"FORM",
+					"formul",
+					"formula",
+					"Formu",
+					"formu",
+					"agents",
+					"atlprefix",
+					"string_table",
+					"atlpre",
+					"atomic_proposition",
+					"atlpre",
+					"ID",
+					"atlprefix",
+					"is_groups",
+					"string_table",
+					"ID",
+					"atlprefix",
+					"formula",
+					"atlprefix"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1092,31 +1276,8 @@
 				"regex": false,
 				"replace_history":
 				[
-					"R",
-					"labeling",
-					"JADL",
-					"\\cancel",
-					"\\xcancel",
-					"labeling",
-					"JADL",
-					"out(s,(\\sigma_A,\\sigma_{-A}))",
-					"\\mathcal G,s",
-					"[A]^\\infty_\\psi",
-					"[A]_\\psi",
-					"\\lsem A\\rsem^\\infty",
-					"\\llangle A\\rrangle^k",
-					"\\llangle A\\rrangle^{k+1}",
-					"\\lsem A\\rsem^{k+1}",
-					"\\lsem A\\rsem^k",
-					"[A]^k_\\psi",
-					"end{proof}",
-					"begin{proof}",
-					"G",
-					"\\models",
-					"\\lsem",
-					"such that",
-					"\\upharpoonright",
-					"\\triangleq"
+					"",
+					"\\red"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1127,38 +1288,481 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/Academic/Notes/Note.tex",
+							"file": "/E/Academic/Notes/JAADL_Model_Checking.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10578,
+								"buffer_size": 6294,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										10289,
-										10289
+										2515,
+										2515
 									]
 								],
 								"settings":
 								{
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
+									"bracket_highlighter.locations":
 									{
 										"close":
 										{
 											"1":
 											[
-												10537,
-												10544
+												3068,
+												3069
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												182,
+												183
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 162.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/mcmas-ldlk-complete/main.cc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21340,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12484,
+										12484
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												12489,
+												12490
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												12484,
+												12485
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 9629.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Documents/Desktop/PPT/NaiveBayes/NaiveBayes.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7472,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5712,
+										5712
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"syntax": "Packages/LaTeXing/support/LaTeX Beamer.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3687.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Documents/Desktop/PPT/DecisionTree/DecisionTree.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8665,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5915,
+										5915
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"syntax": "Packages/LaTeXing/support/LaTeX Beamer.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 933.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/E/Documents/AIcourse201901/E05_20180930_Family/E05_Family.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4844,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4077,
+										2984
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												4067,
+												4076
 											]
 										},
 										"icon":
@@ -1173,96 +1777,8 @@
 										{
 											"1":
 											[
-												8794,
-												8801
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												10300,
-												10301
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												10287,
-												10288
+												3052,
+												3061
 											]
 										},
 										"unmatched":
@@ -1271,11 +1787,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1286,54 +1832,259 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1863.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/E/Documents/AIcourse201901/E02_20180914_15puzzle/E02_15puzzle.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3065,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2600,
+										2375
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												2593,
+												2599
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"region.orangish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												2383,
+												2389
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1458.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Documents/Desktop/PPT/Overview/overview.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7865,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7233,
+										7207
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7206,
+												7207
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7198,
+												7199
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
-									"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+									"syntax": "Packages/LaTeXing/support/LaTeX Beamer.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 6218.0,
+								"translation.y": 7822.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1341,7 +2092,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 52.0
+				"height": 36.0
 			},
 			"input":
 			{
@@ -1391,11 +2142,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,785,932,158,1879",
+			"position": "0,2,3,-32000,-32000,-1,-1,577,4,5,822",
 			"project": "",
 			"replace":
 			{
-				"height": 102.0
+				"height": 88.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1429,7 +2180,7 @@
 			"settings":
 			{
 			},
-			"show_minimap": false,
+			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
@@ -1438,7 +2189,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 80,
+			"window_id": 120,
 			"workspace_name": ""
 		}
 	],

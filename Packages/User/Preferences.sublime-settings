@@ -45,16 +45,17 @@
 			"selector": "text.tex.latex"
 		}
 	],
-	"color_scheme": "Packages/MyColor/wombat.tmTheme",
+	"color_scheme": "Packages/MyColor/Wildlife.tmTheme",
 	"fade_fold_buttons": true,
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"gdi"
 	],
-	"font_size": 20,
+	"font_size": 16,
 	"ignored_packages":
 	[
+		"Dictionaries",
 		"Vintage"
 	],
 	"ignored_words":
